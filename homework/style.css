@@ -1,0 +1,21 @@
+h1 { 
+    color: purple; 
+    font-size:20px; 
+    margin: 0
+    
+}
+
+/* you should hard load chrome to be able to see the change */
+
+h1#second-title {
+    color:blue;
+}
+
+h1.italic-title {
+    font-style: italic;
+}
+/* go check css text online */
+rect {
+    fill:red;
+    stroke: green;
+}
