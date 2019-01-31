@@ -1,104 +1,102 @@
-
 var canvas = document.querySelector('canvas');
-var context = canvas.getContext('2d');
+var c = canvas.getContext('2d');
 
+//Get the x, y value of the mouse
 var mouse = {
     x: undefined,
     y: undefined
 }
 
-var maxRadius = 40;
-var minimumRadius = 2;
-
-var colorArray = [
-    'rgb(17, 47, 65)',
-    'rgb(6, 133, 135)',
-    'rgb(79, 185, 159)',
-    'rgb(242, 177, 52)',
-    'rgb(237, 85, 59)',
-];
-
-//Add mouse move as event listner
 window.addEventListener('mousemove', 
-    function(event) {
+    function(event){ 
         mouse.x = event.x;
         mouse.y = event.y;
-        console.log(mouse);
+})
 
-});
 
+//resize as the browser size changes
 window.addEventListener('resize', function(){
     canvas.width = window.innerWidth;
     canvas.height = window.innerHeight;
     init();
-})
+});
 
+var maxR = 45;
+var colors = [
+    'rgb(17, 47, 65)',
+    'rgb(6, 133, 135)',
+    'rgb(79, 185, 159)',
+    'rgb(242, 177, 52)', 
+    'rgb(237, 85, 59)' 
 
-//Create an constructor for circles
-function Circle(x, y, dx, dy, radius){
+];
+
+//Create a circle constructor
+function Circle(x, dx, y, dy, r) {
     this.x = x;
-    this.y = y;
     this.dx = dx;
+    this.y = y;
     this.dy = dy;
-    this.radius = radius;
-    this.minimumRadius = minimumRadius;
-    this.color = colorArray[Math.round(Math.random() * colorArray.length)];
-
+    this.r = r;
+    this.color = colors[Math.floor(Math.random() * colors.length)];
+    this.minR = r;
+    
     this.draw = function() {
-        context.beginPath();
-        context.arc(this.x, this.y, this.radius, 0, Math.PI * 2, false);
-        context.stroke();
-        context.fillStyle = this.color;
-        context.fill();
+        c.beginPath();
+        c.arc(this.x, this.y, this.r, Math.PI * 2, false);
+        c.fillStyle = this.color;
+        c.fill();
     }
 
     this.update = function() {
-        if (this.x + this.radius > innerWidth || this.x - this.radius < 0) {
+        this.draw();
+        if (this.x + this.r <= innerWidth && this.x - this.r >= 0) {
+            this.dx = this.dx;
+        } else {
             this.dx = -this.dx;
         }
-        if (this.y + this.radius > innerHeight || this.y - this.radius < 0){
+        this.x += this.dx;
+    
+        if (this.y + this.r > innerHeight || this.y - this.r < 0) {
             this.dy = -this.dy;
         }
-        this.x += this.dx;
         this.y += this.dy;
+        
+        //interactivity
+        if (mouse.x - this.x < 30 && mouse.x - this.x > -30
+            && mouse.y - this.y < 30 && mouse.y - this.y > -30) {
+                if (this.r < maxR) {
+                    this.r += 1;
+                }
 
-        //mouse move activity
-        if (mouse.x - this.x < 50 && mouse.x - this.x > -50
-            && mouse.y - this.y < 50 && mouse.y - this.y > -50) {
-            if (this.radius < maxRadius) {
-                this.radius += 1;
-            }
-            
-        } else if (this.radius > this.minimumRadius) {
-            this.radius -= 1;
+        } else if (this.r > this.minR){
+            this.r -= 1;
         }
-
-        this.draw();
     }
+
 }
 
-var circleArray = [];
+var circles = [];
 function init() {
-    circleArray = [];
-    for (var i = 0; i < 800; i++) {
-    var radius = Math.random() * 3 + 1;
-    var x = Math.random() * (innerWidth - radius * 2) + radius;
-    var y = Math.random() * (innerHeight - radius * 2) + radius;
-    var dx = (Math.random() - 0.5);
-    var dy = (Math.random() - 0.5);
-    var radius = 30;
-    circleArray.push(new Circle(x, y, dx, dy, radius));
-}
-}
-
-
-//Add animation to circles
-function animate(){
-    requestAnimationFrame(animate);
-    context.clearRect(0, 0, innerWidth, innerHeight);
-    for (var i = 0; i < circleArray.length; i++) {
-        circleArray[i].update();
+    circles = []; //clear the previous circles generated each time we resize the browser
+    for (var i = 0; i < 1000; i++) {
+        var r = Math.random() * 3 + 1;
+        //var x = Math.random() * innerWidth;
+        //var x = Math.random() * (innerWidth - r * 2); 
+        var x = Math.random() * (innerWidth - r * 2) + r;
+        var dx = Math.random() - 0.5; //get different direction
+        var y = Math.random() * (innerHeight - r * 2) + r;
+        var dy = Math.random() - 0.5;
+        circles.push(new Circle(x, dx, y, dy, r));
     }
-    
 }
-animate(); 
+
+function animate() {
+    //create a cycling
+    requestAnimationFrame(animate);
+    c.clearRect(0, 0, innerWidth, innerHeight);
+    for (var i = 0; i < circles.length; i++) {
+        circles[i].update();
+    }
+}
+animate();
