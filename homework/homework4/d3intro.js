@@ -1,34 +1,24 @@
+var addData = [40, 50, 60, 70];
+var removeData = [30, 50];
 
-//Add a sqaure
- function addSquares() {
-    var svg = d3.selectAll('svg');
-    var square = svg.selectAll('rect').data([40, 50, 60, 70]);
-    var squareEnter = square.enter().append('rect');
-    var squareEnter2 = squareEnter.attr('x', 180).attr('y', 210).style('fill', 'orange');
-    var squareEnter3 = squareEnter2.attr('width', function(d){
-        return d;
-    })
-    squareEnter3.attr('height', function(d){
-        return d;
-    })
-}
+ function toggle(dataArr) {
+     //remove square
+     d3.selectAll('svg')
+     .selectAll('rect')
+     .data(dataArr)
+     .exit().remove();
 
-//remove square
-function removeSquares() {
-    var svg = d3.selectAll('svg');
-    var square = svg.selectAll('rect').data([30, 50]);
-    square.exit().remove();
-}
+    //Add a sqaure
+        d3.selectAll('svg')
+            .selectAll('rect')
+            .data(dataArr).enter().append('rect')
+            .attr('x', 180)
+            .attr('y', 210)
+            .style('fill', 'orange')
+            .attr('width', 30)
+            .attr('height', 30);  
 
-//dance
-function dance(){
-    var svg = d3.selectAll('svg');
-    var square = svg.selectAll('rect');
-    square.attr('x', function() {
-        return Math.random() * innerWidth;
-    });
-}
+ }
 
-document.querySelector('#firstBtn').addEventListener('click', addSquares);
-document.querySelector('#thirdBtn').addEventListener('click', removeSquares);
-document.querySelector('#secondBtn').addEventListener('click', dance);
+document.querySelector('#firstBtn').addEventListener('click', toggle(addData));
+document.querySelector('#thirdBtn').addEventListener('click', toggle(removeData));
