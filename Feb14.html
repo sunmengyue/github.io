@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Scales, tolltips, Axes, oh my!</title>
+    <script src = "https://d3js.org/d3.v4.min.js"></script>
+    <style>
+        #tooltip {
+            display: none;
+            position: absolute;
+        }
+    </style>
+</head>
+<body>
+    <svg width = 100%>
+        <div id = 'tooltip'></div>
+    </svg>
+    <script>
+        var data = [0.2, 0.3, 0.5, 4.3, 3.3]; 
+        var xScale = d3.scaleLinear()
+                    .doman([0, 5])//minimum and maxmum values, if the data given is outside of the range, cramped into the domain
+                    .range([0, window.innerWidth]);
+
+        
+        var colorScale = d3.scaleLinear()
+                    .doman([0, 5])//minimum and maxmum values, if the data given is outside of the range, cramped into the domain
+                    .range(["black", "red"]);
+
+        var svg = d3.select("svg");
+        svg.selectAll("circle")
+            .data(data);
+        circles.enter().append("circle")
+        .attr('r', 10)
+        .attr("fill", function(d){
+            return colorScale(d);
+            })
+        .attr("cx", function(d){
+            return xScale(d);
+            })
+        .attr('cy', 50);
+
+//
+    d3.selectAll('circle')
+    .on('click', function(d){
+        console.log(d);
+    })
+    .on('mouseover', function(d){
+        var mouse = d3.mouse(this); //this circle
+
+        d3.select('#tooltip')
+            .html('<h1>' + d + '</h1>')
+            .style('left', mouse[0] + 'px')
+            .style('top', mouse[1] + 'px');
+    })
+    </script>
+
+</body>
+</html>
