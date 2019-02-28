@@ -11,13 +11,19 @@
 }
 
 .map{
-    background: #F5F5F5;
-    width: 100%;
+    margin: 20px auto;
 }
 
-.otherData{
-    margin: 50px auto;
-    background: #F5F5F5;
-    width: 100%;
+#mapFrame{
+    stroke: #bdc3c7;
+    stroke-width: 1px;
+    fill:	#F8F8F8;
 }
+
+#barChartFrame{
+    stroke: #bdc3c7;
+    stroke-width: 1px;
+    fill: 	#F8F8F8
+}
+
 
