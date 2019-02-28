@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src = "https://d3js.org/d3.v4.min.js"></script>
+</head>
+<body>
+    <h1 id = 'title'>Data Manipulation Pate</h1>
+    <svg>
+    </svg>
+    <script>
+
+        d3.queue()
+        .defer(d3.csv, 'data/csvData.csv')
+        .defer(d3.csv, 'data/countryNames.csv')
+        .awaitAll(function(error, dataArray){
+            var data = dataArray[0];
+            var lookup = dataArray[1];
+            console.log(lookup);
+            var countryNames = {};
+            lookup.forEach(function(d){
+                countryNames[d.code] = d.name;
+            });
+            console.log();
+
+
+        })
+
+        d3.csv('/data/csvData.csv', function(error, data) {
+            //Notice that when you input csv data, do not put space between the data and comma
+            data.forEach(function(d, i) {//the second is the index 
+                //d.exportNum = parseFloat(d.export);
+                d.exportNum = parseFloat(d.export);
+                d.source = 'I made this';
+                d.rank = i + 1;
+                
+                //2ways to acess elements in an object:
+                //d.fullName = countryName.mx;
+                //d.fullName = countryName["mx"]
+                //When you do not know which element to acess, use object[]
+                d.fullName = countryNames[d.country];
+                console.log(data);
+            });
+            
+            //print all the 2018 data
+            var currentData = data.filter(function(d){
+                return d.year == '2018';
+                
+            });
+            console.log(currentData);
+
+            //print all the mexico data
+            var mexicoData = data.filter(function(d){
+                return d.country = 'mx';
+            });
+            console.log(mexicoData);
+
+            //the minimum to the maximum in the export colum
+            var dataExtent = d3.extent(currentData, function(d){
+                return d.export;
+            });
+            console.log(dataExtent);
+
+            //Grouping Data
+            var groupedCountries = d3.nest()
+                .key(function(d){//values are created as rows by d3.nest()
+                    return d.country;
+                })
+                .entries(data);
+
+            groupedCountries.forEach(function(d){
+                d.total = d3.sum(d.values, function(row){
+                    return row.export;
+                 });
+
+                d.average = d3.mean(d.values, function(row){
+                    return row.export;
+                });
+            })
+
+                console.log('groupedCountries:', groupedCountries);
+            
+            var yearlyData = d3.nest()
+                .key(function(d){
+                    return d.year;
+                })
+                .entries(data);
+                console.log('yearData', yearlyData);
+                
+        //Creating a Mapping        
+
+        });
+
+
+
+        
+    </script>
+</body>
+</html>

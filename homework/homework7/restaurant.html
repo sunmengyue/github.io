@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required Meta tags -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!-- Google font -->
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
+
+    <title>SF Restaurants Inspection Scores</title>
+
+    <!-- link to d3 -->
+    <script src = "https://d3js.org/d3.v4.min.js"></script>
+
+    <!-- link to css -->
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <!-- link to js -->
+    <script src = "restaurant.js"></script>
+    <div class = 'header'>
+            <h1 align= 'center'>San Francisco Restaurants Inspection Scores </h1>
+            <h4 align= 'center'>By <i>Mengyue Sun</i></h4>
+    </div>
+    
+    <div class = 'intro'>  
+            <p>
+             The map below presents San Francisco restaurants inspection scores conducted by the SF Health Department in 2016. Inspection scores are based on violations, which was divided into three categories:
+             <ol class = 'riskCategory'>
+                 <li><strong>High risk:</strong> violations that directly relate to the transmission of food borne illnesses</li>
+                 <li><strong>Moderate risk:</strong> violations that are of a moderate risk to the public health and safety</li>
+                 <li><strong>Low risk:</strong> violations that are low risk or have no immediate risk to the public health and safety</li>
+             </ol> 
+             The original dataset can be found at <a href = "https://www.kaggle.com/san-francisco/sf-restaurant-scores-lives-standard">here</a> 
+            </p>
+    </div>
+
+    <svg class = 'map'>
+        
+    </svg>
+    
+</body>
+</html>

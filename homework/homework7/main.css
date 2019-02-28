@@ -1,0 +1,18 @@
+.header{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.intro {
+    border: 1px solid #bdc3c7;
+    padding: 20px;
+    width: 80%;
+    margin: 20px auto;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.map{
+    background: #F5F5F5;
+    width: 100%;
+ 
+}
+
