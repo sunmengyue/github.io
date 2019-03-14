@@ -4,15 +4,15 @@ var height = 600;
 var svg = d3.select("#map")
             .append("svg")
             .attr("height", height)
-            .attr("weight", width)
+            .attr("weight", width) 
             .append("g");
 
 
 /* Read in data */
-d3.queue()
+d3.queue() 
 .defer(d3.csv, "restaurant.csv")
 .defer(d3.json, "sf.json")
-.await(ready);
+.awaitAll(ready);
 
 /* Create a new projection */
 var projection = d3.geoAlbers()
@@ -24,10 +24,9 @@ var path = d3.geoPath()
     .projection(projection);
 
     
-function ready(error, data) {
+function ready(error, dataArray) {
     //topojson transform
-    console.log(data);
-    var neighborhoods = topojson.feature(data, data.objects.SFFind_Neighborhoods).features;
+    var neighborhoods = topojson.feature(dataArray[1], dataArray[1].objects.SFFind_Neighborhoods).features;
     console.log(neighborhoods);
 
 /* Add a path for each neighborhood */
