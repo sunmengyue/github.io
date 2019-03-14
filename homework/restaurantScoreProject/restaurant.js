@@ -1,34 +1,39 @@
-var width = 500,
-    height = 700;
+var width = window.innerWidth;
+var height = 600;
 
-var svg = d3.select("#myMap")
-                    .attr("width", width + "px")
-                    .attr("height", height + "px");
+var svg = d3.select("#map")
+            .append("svg")
+            .attr("height", height)
+            .attr("weight", width)
+            .append("g");
 
 
 /* Read in data */
 d3.queue()
-.defer(d3.json, "usa.json")
+.defer(d3.json, "sf.json")
 .await(ready);
 
 /* Create a new projection */
-var projection = d3.geoMercator()
-    .translate([width, height])
+var projection = d3.geoAlbers()
+    .translate([width / 2, height / 2])
     .scale(100);
 
-/* Create a path (geopath)*/
+/* Create a path*/
 var path = d3.geoPath()
     .projection(projection);
 
+    
 function ready(error, data) {
-    var states = topojson.feature(data, data.objects.states).features;
-    console.log(states);
+    //topojson transform
+    console.log(data);
+    var neighborhoods = topojson.feature(data, data.objects.SFFind_Neighborhoods).features;
+    console.log(neighborhoods);
 
-    /* Add a path for each country */
-    svg.selectAll(".state")
-        .data(states)
+    /* Add a path for each neighborhood */
+    svg.selectAll(".neighborhood")
+        .data(neighborhoods)
         .enter().append("path")
-        .attr("class", "state")
+        .attr("class", "neighborhood")
         .attr("d", path)
         .on("mouseover", function(d) {
             d3.select(this).classed('selected', true)
