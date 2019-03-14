@@ -15,8 +15,8 @@ d3.queue()
 
 /* Create a new projection */
 var projection = d3.geoAlbers()
-    .translate([width / 2, height / 2])
-    .scale(100);
+    .translate([width, height])
+    .scale(200);
 
 /* Create a path*/
 var path = d3.geoPath()

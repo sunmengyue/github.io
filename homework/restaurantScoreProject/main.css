@@ -16,8 +16,7 @@
     font-family: 'Noto Sans', sans-serif;
 }
 
-
-.map{
+#map{
     margin: 20px auto;
 }
 
@@ -30,6 +29,7 @@ svg {
     stroke: #333333;
     stroke-width: 0.5;
 }
+
 .selected {
     fill: yellow;
 }
