@@ -1,0 +1,38 @@
+.header{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header img {
+    float: right;
+    width: 250px;
+    height: 80px;
+  }
+
+.intro {
+    border-bottom: 1px solid #bdc3c7;
+    padding: 20px;
+    width: 80%;
+    margin: 20px auto;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+
+.map{
+    margin: 20px auto;
+}
+
+svg {
+    background: white
+} 
+
+.state {
+    fill: #cccccc;
+    stroke: #333333;
+    stroke-width: 0.5;
+}
+.selected {
+    fill: yellow;
+}
+
+
+

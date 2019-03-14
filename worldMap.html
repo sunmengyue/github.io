@@ -15,7 +15,6 @@
         var height = 700;
 
         d3.queue()
-            .defer(d3.csv, "data/csvData.csv")
             .defer(d3.json, "../topojson/world.json")
             .awaitAll(function(error, dataArray) {
 
