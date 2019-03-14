@@ -10,6 +10,7 @@ var svg = d3.select("#map")
 
 /* Read in data */
 d3.queue()
+.defer(d3.csv, "restaurant.csv")
 .defer(d3.json, "sf.json")
 .await(ready);
 
@@ -29,7 +30,7 @@ function ready(error, data) {
     var neighborhoods = topojson.feature(data, data.objects.SFFind_Neighborhoods).features;
     console.log(neighborhoods);
 
-    /* Add a path for each neighborhood */
+/* Add a path for each neighborhood */
     svg.selectAll(".neighborhood")
         .data(neighborhoods)
         .enter().append("path")
