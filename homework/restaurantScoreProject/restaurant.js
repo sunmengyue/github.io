@@ -77,6 +77,7 @@ function ready(error, dataArray) {
     })
         .attr("r", 5)
         .attr("fill", "cornflowerblue")
+        .style("opacity", .7)
         .on("mouseover", function(d) {      
             div.transition()        
                  .duration(200)      
