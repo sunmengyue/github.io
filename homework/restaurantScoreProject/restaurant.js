@@ -10,12 +10,12 @@ var svg = d3.select("#map")
 /* Read in data */
 d3.queue()
 .defer(d3.json, "sf.geojson")
-.defer(d3.csv, "SF.csv")
+.defer(d3.csv, "restaurant.csv")
 .defer(d3.json, "sf.json")
 .awaitAll(ready);
 
 function ready(error, dataArray) {
-
+    console.log(dataArray[1]);
     //topojson transform
     var neighborhoods = topojson.feature(dataArray[2], dataArray[2].objects.SFFind_Neighborhoods);
 
@@ -63,6 +63,18 @@ function ready(error, dataArray) {
     {"name": "STARBUCKS COFFEE", "coords": [ -122.422722,37.744122 ]},
 ]
 
+// svg.selectAll(".restaurant-circle")
+//     .data(dataArray[0])	        
+//     .enter().append("circle")	        
+//     .attr("r", 2)	        
+//     .attr("cx", function(d){	        
+//         var coords = projection([d.business_latitude, d.business_longitude]);	            
+//         return coords[0];	            
+//     }) 	    
+//     .attr("cx", function(d){	        
+//         var coords = projection([d.business_latitude, d.business_longitude]);	            
+//         return coords[1];	            
+
 // Append Div for tooltip to SVG
     var div = d3.select("body")
 		    .append("div")   
@@ -70,20 +82,21 @@ function ready(error, dataArray) {
             .style("opacity", 0);
 
 //Create dots and attach tool tips
+
     var restaurants = svg.selectAll("circle")
-        .data(points);
+        .data(dataArray[1]);
         restaurants.enter().append("circle")
         .attr("transform", function(d) {
-        return "translate(" + projection(d.coords) + ")";
+        return "translate(" + projection([ d.business_longitude, d.business_latitude]) + ")";
     })
         .attr("r", 5)
         .attr("fill", "cornflowerblue")
-        .style("opacity", .7)
+        .style("opacity", .4)
         .on("mouseover", function(d) {      
             div.transition()        
                  .duration(200)      
                .style("opacity", .9);      
-               div.text(d.name)
+               div.text(d.business_name)
                .style("left", (d3.event.pageX) + "px")     
                .style("top", (d3.event.pageY - 28) + "px");    
         })   
