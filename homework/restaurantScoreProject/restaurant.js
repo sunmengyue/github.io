@@ -69,6 +69,7 @@ function ready(error, dataArray) {
     		.attr("class", "tooltip")               
             .style("opacity", 0);
 
+//Create dots and attach tool tips
     var restaurants = svg.selectAll("circle")
         .data(points);
         restaurants.enter().append("circle")
