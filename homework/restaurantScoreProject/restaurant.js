@@ -42,29 +42,32 @@ function ready(error, dataArray) {
     /* Add restaurants
     get x/y from the lat/long projection
     */
-    //transform numeric data to its format
-    dataArray[0].forEach(function (d) {
+    
+   dataArray[0].forEach(function (d) {
         d.business_id = +d.business_id;
         d.business_latitude = +d.business_latitude;
         d.business_longitude = +d.business_longitude;
         d.business_postal_code = +d.business_postal_code;
         d.inspection_score = +d.inspection_score;
     });
-   
+
     //Put each restaurant as dot on the map
     svg.selectAll(".restaurant-circle")
-    .data(dataArray[0])
-    .enter().append("circle")
-    .attr("r", 2)
-    .attr("cx", function(d){
-        var coords = projection([d.business_latitude, d.business_longitude]);
-        return coords[0];
+        .data(dataArray[0])
+        .enter().append("circle")
+        .attr("r", 2)
+        .attr("cx", function(d){
+            var coords = projection([d.business_latitude, d.business_longitude]);
+            return coords[0];
     }) 
-    .attr("cx", function(d){
-        var coords = projection([d.business_latitude, d.business_longitude]);
-        return coords[1];
+        .attr("cy", function(d){
+            var coords = projection([d.business_latitude, d.business_longitude]);
+            return coords[1];
     });
 
 
 }
+
+
+
 
