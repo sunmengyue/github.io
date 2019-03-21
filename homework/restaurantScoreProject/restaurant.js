@@ -93,7 +93,7 @@ function ready(error, dataArray) {
         });
     
  
-/* Create tool tips on dots */
+
 
 
 }
