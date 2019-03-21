@@ -8,16 +8,16 @@ var svg = d3.select("#map")
 
 
 /* Read in data */
-d3.queue() 
-.defer(d3.csv, "SF.csv")
+d3.queue()
+.defer(d3.json, "points.geojson") 
+.defer(d3.csv, "sf.csv")
 .defer(d3.json, "sf.json")
 .awaitAll(ready);
-
 
 function ready(error, dataArray) {
 
     //topojson transform
-    var neighborhoods = topojson.feature(dataArray[1], dataArray[1].objects.SFFind_Neighborhoods);
+    var neighborhoods = topojson.feature(dataArray[2], dataArray[2].objects.SFFind_Neighborhoods);
 
     var projection = d3.geoAlbers()
     .fitSize([width, height], neighborhoods);
@@ -42,29 +42,34 @@ function ready(error, dataArray) {
     /* Add restaurants
     get x/y from the lat/long projection
     */
-    
-   dataArray[0].forEach(function (d) {
-        d.business_id = +d.business_id;
-        d.business_latitude = +d.business_latitude;
-        d.business_longitude = +d.business_longitude;
-        d.business_postal_code = +d.business_postal_code;
-        d.inspection_score = +d.inspection_score;
-    });
-
-    //Put each restaurant as dot on the map
-    svg.selectAll(".restaurant-circle")
-        .data(dataArray[0])
-        .enter().append("circle")
-        .attr("r", 2)
-        .attr("cx", function(d){
-            var coords = projection([d.business_latitude, d.business_longitude]);
-            return coords[0];
-    }) 
-        .attr("cy", function(d){
-            var coords = projection([d.business_latitude, d.business_longitude]);
-            return coords[1];
-    });
-
+   var points = [
+    {"name": "MARTHA & BROS. COFFEE CO", "coords":  [-122.426856,37.745974 ]},
+    {"name": "KABABAYAN FAST FOOD", "coords": [ -122.46779,37.711185 ]},
+    {"name": "The Little Chihuahua Mexican Restaurant", "coords": [ -122.421803,37.764744 ]},
+    {"name": "Extreme Pizza", "coords": [ -122.421736,37.763664 ]},
+    {"name": "ARINELL PIZZA", "coords": [ -122.460205,37.724778 ]},
+    {"name": "JAVA ON OCEAN", "coords": [ -122.45005,37.731523 ]},
+    {"name": "SAFEWAY #759", "coords": [ -122.43789,37.795882 ]},
+    {"name": "ST VINCENT DE PAUL", "coords": [ -122.475639,37.728497 ]},
+    {"name": "Cocola", "coords": [ -122.418444,37.751587 ]},
+    {"name": "EL NORTENO", "coords": [ -122.394673,37.779777 ]},
+    {"name": "KOH SAMUI & THE MONKEY", "coords": [ -122.420273,37.744901 ]},
+    {"name": "CLUB PUERTORRIQUENO OF SF INC", "coords": [ -122.503939,37.760454 ]},
+    {"name": "Mango Medley", "coords": [ -122.473318,37.731746 ]},
+    {"name": "Shabu House", "coords": [ -122.421363,37.743313 ]},
+    {"name": "PIZZA HUT", "coords": [ -122.414757,37.738927 ]},
+    {"name": "MARTHA & BROS COFFEE CO", "coords": [ -122.418576,37.753973 ]},
+    {"name": "THAT'S IT MARKET", "coords": [  -122.431629,37.751413 ]},
+    {"name": "STARBUCKS COFFEE", "coords": [ -122.422722,37.744122 ]},
+]
+    var restaurants = svg.selectAll("circle")
+        .data(points);
+        restaurants.enter().append("circle")
+        .attr("transform", function(d) {
+        return "translate(" + projection(d.coords) + ")";
+    })
+        .attr("r", 5)
+        .attr("fill", "cornflowerblue");
 
 }
 

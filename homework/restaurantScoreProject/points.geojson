@@ -1,0 +1,8753 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.426856,37.745974 ]
+    },
+    "properties": {
+    "FIELD1":1,
+    "business_id":1641,
+    "business_name":"MARTHA & BROS. COFFEE CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418657,37.753691 ]
+    },
+    "properties": {
+    "FIELD1":5,
+    "business_id":1249,
+    "business_name":"KABABAYAN FAST FOOD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.46779,37.711185 ]
+    },
+    "properties": {
+    "FIELD1":6,
+    "business_id":13427,
+    "business_name":"Extreme Pizza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421736,37.763664 ]
+    },
+    "properties": {
+    "FIELD1":12,
+    "business_id":70494,
+    "business_name":"The Little Chihuahua Mexican Restaurant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421803,37.764744 ]
+    },
+    "properties": {
+    "FIELD1":15,
+    "business_id":1081,
+    "business_name":"ARINELL PIZZA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.460205,37.724778 ]
+    },
+    "properties": {
+    "FIELD1":18,
+    "business_id":4683,
+    "business_name":"JAVA ON OCEAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.45005,37.731523 ]
+    },
+    "properties": {
+    "FIELD1":22,
+    "business_id":7744,
+    "business_name":"SAFEWAY #759"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.43789,37.795882 ]
+    },
+    "properties": {
+    "FIELD1":23,
+    "business_id":5961,
+    "business_name":"ST VINCENT DE PAUL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.475639,37.728497 ]
+    },
+    "properties": {
+    "FIELD1":24,
+    "business_id":61285,
+    "business_name":"Cocola"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418444,37.751587 ]
+    },
+    "properties": {
+    "FIELD1":27,
+    "business_id":61736,
+    "business_name":"Rosamunde Sausage Grill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.454226,37.723461 ]
+    },
+    "properties": {
+    "FIELD1":32,
+    "business_id":71286,
+    "business_name":"21 Taste House"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.402466,37.776011 ]
+    },
+    "properties": {
+    "FIELD1":33,
+    "business_id":5297,
+    "business_name":"EL NORTENO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.394673,37.779777 ]
+    },
+    "properties": {
+    "FIELD1":38,
+    "business_id":2973,
+    "business_name":"KOH SAMUI & THE MONKEY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420273,37.744901 ]
+    },
+    "properties": {
+    "FIELD1":39,
+    "business_id":4372,
+    "business_name":"CLUB PUERTORRIQUENO OF SF INC."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.503939,37.760454 ]
+    },
+    "properties": {
+    "FIELD1":40,
+    "business_id":14303,
+    "business_name":"Mango Medley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.473318,37.731746 ]
+    },
+    "properties": {
+    "FIELD1":41,
+    "business_id":70516,
+    "business_name":"Shabu House"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421363,37.743313 ]
+    },
+    "properties": {
+    "FIELD1":44,
+    "business_id":5025,
+    "business_name":"PIZZA HUT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.414757,37.738927 ]
+    },
+    "properties": {
+    "FIELD1":46,
+    "business_id":2632,
+    "business_name":"MARTHA & BROS COFFEE CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418576,37.753973 ]
+    },
+    "properties": {
+    "FIELD1":55,
+    "business_id":4959,
+    "business_name":"THAT'S IT MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.431629,37.751413 ]
+    },
+    "properties": {
+    "FIELD1":57,
+    "business_id":4480,
+    "business_name":"STARBUCKS COFFEE #545"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.422722,37.744122 ]
+    },
+    "properties": {
+    "FIELD1":60,
+    "business_id":5032,
+    "business_name":"MITCHELLS ICE CREAM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418626,37.754513 ]
+    },
+    "properties": {
+    "FIELD1":62,
+    "business_id":7645,
+    "business_name":"LUCKY PORK MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418665,37.755013 ]
+    },
+    "properties": {
+    "FIELD1":65,
+    "business_id":2352,
+    "business_name":"SMILE'S  B.B.Q."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415182,37.778357 ]
+    },
+    "properties": {
+    "FIELD1":69,
+    "business_id":5011,
+    "business_name":"STARBUCKS COFFEE CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433514,37.792628 ]
+    },
+    "properties": {
+    "FIELD1":73,
+    "business_id":14971,
+    "business_name":"San Francisco Public Montessori"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.47588,37.730576 ]
+    },
+    "properties": {
+    "FIELD1":75,
+    "business_id":5997,
+    "business_name":"STONESTOWN FAMILY YMCA (SR. ANNEX)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.430248,37.771368 ]
+    },
+    "properties": {
+    "FIELD1":77,
+    "business_id":4249,
+    "business_name":"Cafe Du Soleil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.430498,37.772822 ]
+    },
+    "properties": {
+    "FIELD1":79,
+    "business_id":7095,
+    "business_name":"ABE'S MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.443547,37.803537 ]
+    },
+    "properties": {
+    "FIELD1":81,
+    "business_id":5907,
+    "business_name":"LILIENTHAL ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.403285,37.803634 ]
+    },
+    "properties": {
+    "FIELD1":86,
+    "business_id":7479,
+    "business_name":"RJ's Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418586,37.754094 ]
+    },
+    "properties": {
+    "FIELD1":87,
+    "business_id":7214,
+    "business_name":"SUN FAT SEAFOOD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418494,37.753336 ]
+    },
+    "properties": {
+    "FIELD1":88,
+    "business_id":69465,
+    "business_name":"La Corneta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433746,37.748214 ]
+    },
+    "properties": {
+    "FIELD1":97,
+    "business_id":4978,
+    "business_name":"Angel's Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.429076,37.774046 ]
+    },
+    "properties": {
+    "FIELD1":100,
+    "business_id":5847,
+    "business_name":"John Muir Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.41013,37.778547 ]
+    },
+    "properties": {
+    "FIELD1":102,
+    "business_id":18800,
+    "business_name":"7-Mission Restaurant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.434992,37.751268 ]
+    },
+    "properties": {
+    "FIELD1":104,
+    "business_id":3868,
+    "business_name":"BARNEY'S"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418486,37.752634 ]
+    },
+    "properties": {
+    "FIELD1":108,
+    "business_id":2356,
+    "business_name":"TAQUERIA EL FAROLITO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.416683,37.739053 ]
+    },
+    "properties": {
+    "FIELD1":110,
+    "business_id":4797,
+    "business_name":"Good Life Grocery, The"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.413068,37.786709 ]
+    },
+    "properties": {
+    "FIELD1":116,
+    "business_id":31568,
+    "business_name":"Taqueria El Sol #2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.401269,37.79407 ]
+    },
+    "properties": {
+    "FIELD1":117,
+    "business_id":63773,
+    "business_name":"Irish Times Bar and Grill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.411684,37.776384 ]
+    },
+    "properties": {
+    "FIELD1":121,
+    "business_id":10332,
+    "business_name":"Harvest Urban Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.406761,37.774722 ]
+    },
+    "properties": {
+    "FIELD1":122,
+    "business_id":13814,
+    "business_name":"Go Go Market & Deli"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.406761,37.774722 ]
+    },
+    "properties": {
+    "FIELD1":127,
+    "business_id":7538,
+    "business_name":"FREDS LIQUOR & DELI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421815,37.764484 ]
+    },
+    "properties": {
+    "FIELD1":133,
+    "business_id":2455,
+    "business_name":"MUDDY WATERS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.45097,37.731568 ]
+    },
+    "properties": {
+    "FIELD1":134,
+    "business_id":71909,
+    "business_name":"Shanghai Dumpling King 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419014,37.766864 ]
+    },
+    "properties": {
+    "FIELD1":135,
+    "business_id":10030,
+    "business_name":"Marshall Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.465031,37.726337 ]
+    },
+    "properties": {
+    "FIELD1":136,
+    "business_id":3260,
+    "business_name":"KENTUCKY FRIED CHICKEN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.447713,37.710459 ]
+    },
+    "properties": {
+    "FIELD1":137,
+    "business_id":5868,
+    "business_name":"LONGFELLOW ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421263,37.766618 ]
+    },
+    "properties": {
+    "FIELD1":140,
+    "business_id":5998,
+    "business_name":"CENTRO LATINO DE SAN FRANCISCO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.448082,37.709896 ]
+    },
+    "properties": {
+    "FIELD1":142,
+    "business_id":5955,
+    "business_name":"SF CHRISTIAN DAY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.410305,37.78215 ]
+    },
+    "properties": {
+    "FIELD1":143,
+    "business_id":4590,
+    "business_name":"TAQUERIA CAN-CUN  RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.43983,37.722067 ]
+    },
+    "properties": {
+    "FIELD1":144,
+    "business_id":5808,
+    "business_name":"BALBOA HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419253,37.729016 ]
+    },
+    "properties": {
+    "FIELD1":153,
+    "business_id":5827,
+    "business_name":"HILLCREST ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420915,37.754397 ]
+    },
+    "properties": {
+    "FIELD1":161,
+    "business_id":5999,
+    "business_name":"The Salvation Army"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.425581,37.719719 ]
+    },
+    "properties": {
+    "FIELD1":162,
+    "business_id":5860,
+    "business_name":"June Jordan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.425576,37.740395 ]
+    },
+    "properties": {
+    "FIELD1":163,
+    "business_id":5814,
+    "business_name":"FAIRMOUNT ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.442876,37.721825 ]
+    },
+    "properties": {
+    "FIELD1":165,
+    "business_id":5810,
+    "business_name":"DENMAN MIDDLE SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420713,37.752059 ]
+    },
+    "properties": {
+    "FIELD1":168,
+    "business_id":7646,
+    "business_name":"VALENCIA GROCERY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.481299,37.747228 ]
+    },
+    "properties": {
+    "FIELD1":169,
+    "business_id":5794,
+    "business_name":"LINCOLN HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.437747,37.783427 ]
+    },
+    "properties": {
+    "FIELD1":170,
+    "business_id":5854,
+    "business_name":"Gateway High/Kip Schools"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.434202,37.710464 ]
+    },
+    "properties": {
+    "FIELD1":171,
+    "business_id":5825,
+    "business_name":"GUADALUPE ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.425956,37.761554 ]
+    },
+    "properties": {
+    "FIELD1":172,
+    "business_id":67552,
+    "business_name":"Namu Gaji"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.45245,37.727337 ]
+    },
+    "properties": {
+    "FIELD1":176,
+    "business_id":5925,
+    "business_name":"ARCHBISHOP RIORDAN HIGH SCHOOL CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.435998,37.73322 ]
+    },
+    "properties": {
+    "FIELD1":177,
+    "business_id":5820,
+    "business_name":"GLEN PARK ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.450327,37.774333 ]
+    },
+    "properties": {
+    "FIELD1":179,
+    "business_id":5849,
+    "business_name":"NEW TRADITIONS ALTERNATIVE SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.490105,37.780823 ]
+    },
+    "properties": {
+    "FIELD1":180,
+    "business_id":5834,
+    "business_name":"Presidio Middle School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.445864,37.780133 ]
+    },
+    "properties": {
+    "FIELD1":183,
+    "business_id":5853,
+    "business_name":"RAOUL WALLENBERG HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.474427,37.718254 ]
+    },
+    "properties": {
+    "FIELD1":185,
+    "business_id":69237,
+    "business_name":"SPRESSA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420456,37.750374 ]
+    },
+    "properties": {
+    "FIELD1":188,
+    "business_id":2369,
+    "business_name":"CLOONEY'S"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.43641,37.801776 ]
+    },
+    "properties": {
+    "FIELD1":189,
+    "business_id":5905,
+    "business_name":"MARINA MIDDLE SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.417409,37.785182 ]
+    },
+    "properties": {
+    "FIELD1":192,
+    "business_id":1734,
+    "business_name":"SAI JAI THAI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.426167,37.798243 ]
+    },
+    "properties": {
+    "FIELD1":194,
+    "business_id":5908,
+    "business_name":"SHERMAN ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418215,37.761007 ]
+    },
+    "properties": {
+    "FIELD1":197,
+    "business_id":6000,
+    "business_name":"Mission Neighborhood Centers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.405356,37.78355 ]
+    },
+    "properties": {
+    "FIELD1":207,
+    "business_id":3948,
+    "business_name":"Mel's Drive-In"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.414027,37.807888 ]
+    },
+    "properties": {
+    "FIELD1":211,
+    "business_id":62814,
+    "business_name":"Hot Spud"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.432319,37.751373 ]
+    },
+    "properties": {
+    "FIELD1":213,
+    "business_id":1609,
+    "business_name":"Tung Sing Restaurant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419308,37.761929 ]
+    },
+    "properties": {
+    "FIELD1":216,
+    "business_id":2343,
+    "business_name":"GRAND MISSION DONUT & BAKERY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421505,37.760777 ]
+    },
+    "properties": {
+    "FIELD1":218,
+    "business_id":69181,
+    "business_name":"Cha-Ya Restaurant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.50609,37.760383 ]
+    },
+    "properties": {
+    "FIELD1":220,
+    "business_id":3228,
+    "business_name":"THANH LONG RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.499709,37.775573 ]
+    },
+    "properties": {
+    "FIELD1":222,
+    "business_id":5958,
+    "business_name":"ST. THOMAS THE APOSTLE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.396296,37.760474 ]
+    },
+    "properties": {
+    "FIELD1":223,
+    "business_id":5823,
+    "business_name":"WEBSTER ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.469193,37.714204 ]
+    },
+    "properties": {
+    "FIELD1":224,
+    "business_id":4685,
+    "business_name":"NORMAN'S LIQUOR & DELI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.380619,37.733741 ]
+    },
+    "properties": {
+    "FIELD1":225,
+    "business_id":5867,
+    "business_name":"MALCOLM X ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.41914,37.790933 ]
+    },
+    "properties": {
+    "FIELD1":227,
+    "business_id":63618,
+    "business_name":"Contraband Coffee LLC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.493618,37.779663 ]
+    },
+    "properties": {
+    "FIELD1":229,
+    "business_id":71532,
+    "business_name":"Xpresso Tea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407252,37.783225 ]
+    },
+    "properties": {
+    "FIELD1":230,
+    "business_id":5010,
+    "business_name":"LATTE EXPRESS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.39377,37.795225 ]
+    },
+    "properties": {
+    "FIELD1":234,
+    "business_id":63079,
+    "business_name":"G. L. Alfieri, LLC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.458851,37.713219 ]
+    },
+    "properties": {
+    "FIELD1":239,
+    "business_id":4849,
+    "business_name":"FAMILY MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.434093,37.73382 ]
+    },
+    "properties": {
+    "FIELD1":240,
+    "business_id":1381,
+    "business_name":"PEBBLE'S CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4339,37.734579 ]
+    },
+    "properties": {
+    "FIELD1":243,
+    "business_id":2692,
+    "business_name":"TYGER'S"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.475639,37.728497 ]
+    },
+    "properties": {
+    "FIELD1":247,
+    "business_id":6756,
+    "business_name":"Godiva Chocolatier Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.427549,37.768743 ]
+    },
+    "properties": {
+    "FIELD1":254,
+    "business_id":3834,
+    "business_name":"SAFEWAY #1507"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.430767,37.76395 ]
+    },
+    "properties": {
+    "FIELD1":256,
+    "business_id":5856,
+    "business_name":"Sanchez School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.475639,37.728497 ]
+    },
+    "properties": {
+    "FIELD1":262,
+    "business_id":4636,
+    "business_name":"STARBUCKS COFFEE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.483578,37.731027 ]
+    },
+    "properties": {
+    "FIELD1":263,
+    "business_id":5802,
+    "business_name":"LOWELL HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4861,37.730637 ]
+    },
+    "properties": {
+    "FIELD1":264,
+    "business_id":5817,
+    "business_name":"LAKESHORE ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423184,37.774017 ]
+    },
+    "properties": {
+    "FIELD1":265,
+    "business_id":7112,
+    "business_name":"NICK'S SUPER MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421881,37.764087 ]
+    },
+    "properties": {
+    "FIELD1":270,
+    "business_id":68963,
+    "business_name":"West of Pecos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.424709,37.764713 ]
+    },
+    "properties": {
+    "FIELD1":271,
+    "business_id":146,
+    "business_name":"DEJA VU PIZZA & PASTA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.429024,37.768187 ]
+    },
+    "properties": {
+    "FIELD1":274,
+    "business_id":7207,
+    "business_name":"GOLDEN PRODUCE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.446877,37.777988 ]
+    },
+    "properties": {
+    "FIELD1":280,
+    "business_id":5919,
+    "business_name":"SAN FRANCISCO DAY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420984,37.791914 ]
+    },
+    "properties": {
+    "FIELD1":281,
+    "business_id":63897,
+    "business_name":"Bob's Donuts and Pastries"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.441423,37.799188 ]
+    },
+    "properties": {
+    "FIELD1":282,
+    "business_id":63256,
+    "business_name":"Viva Goa Indian Cuisine"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.404626,37.751776 ]
+    },
+    "properties": {
+    "FIELD1":283,
+    "business_id":5888,
+    "business_name":"Bryant Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.450513,37.763842 ]
+    },
+    "properties": {
+    "FIELD1":284,
+    "business_id":5842,
+    "business_name":"GRATTAN ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415376,37.754805 ]
+    },
+    "properties": {
+    "FIELD1":287,
+    "business_id":5871,
+    "business_name":"CHAVEZ ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409726,37.759045 ]
+    },
+    "properties": {
+    "FIELD1":288,
+    "business_id":7664,
+    "business_name":"NORM'S MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.405108,37.720656 ]
+    },
+    "properties": {
+    "FIELD1":291,
+    "business_id":5859,
+    "business_name":"BURTON HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.408455,37.755257 ]
+    },
+    "properties": {
+    "FIELD1":292,
+    "business_id":5824,
+    "business_name":"S.F. International High School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.390006,37.718375 ]
+    },
+    "properties": {
+    "FIELD1":293,
+    "business_id":5897,
+    "business_name":"BRET HARTE CHILDREN'S CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.389105,37.718746 ]
+    },
+    "properties": {
+    "FIELD1":294,
+    "business_id":5874,
+    "business_name":"HARTE ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.459115,37.714304 ]
+    },
+    "properties": {
+    "FIELD1":295,
+    "business_id":5807,
+    "business_name":"SHERIDAN ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.393522,37.731736 ]
+    },
+    "properties": {
+    "FIELD1":296,
+    "business_id":5858,
+    "business_name":"DREW ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.41765,37.724683 ]
+    },
+    "properties": {
+    "FIELD1":298,
+    "business_id":35340,
+    "business_name":"Cornerstone Academy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412293,37.756231 ]
+    },
+    "properties": {
+    "FIELD1":299,
+    "business_id":5821,
+    "business_name":"MOSCONE ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.414674,37.75962 ]
+    },
+    "properties": {
+    "FIELD1":301,
+    "business_id":5889,
+    "business_name":"O'CONNELL HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.416939,37.777053 ]
+    },
+    "properties": {
+    "FIELD1":302,
+    "business_id":64805,
+    "business_name":"Andersen Bread"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.403989,37.784247 ]
+    },
+    "properties": {
+    "FIELD1":303,
+    "business_id":4656,
+    "business_name":"STARBUCKS COFFEE CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.404146,37.761354 ]
+    },
+    "properties": {
+    "FIELD1":304,
+    "business_id":5895,
+    "business_name":"Downtown High School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.391151,37.778382 ]
+    },
+    "properties": {
+    "FIELD1":305,
+    "business_id":5634,
+    "business_name":"AT&T - COMMISARY KITCHEN [145184]"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.391151,37.778382 ]
+    },
+    "properties": {
+    "FIELD1":306,
+    "business_id":5619,
+    "business_name":"AT&T - PANTRY/WALK-IN BOX/suite [145163]"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.399583,37.793338 ]
+    },
+    "properties": {
+    "FIELD1":312,
+    "business_id":64380,
+    "business_name":"Michael Mina Restaurant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418116,37.749194 ]
+    },
+    "properties": {
+    "FIELD1":313,
+    "business_id":33700,
+    "business_name":"Casa Guadalupe #3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.480058,37.754132 ]
+    },
+    "properties": {
+    "FIELD1":314,
+    "business_id":69282,
+    "business_name":"New Jumbo Seafood Restaurant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.471316,37.711329 ]
+    },
+    "properties": {
+    "FIELD1":315,
+    "business_id":3253,
+    "business_name":"S F GOLF CLUB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.49649,37.777603 ]
+    },
+    "properties": {
+    "FIELD1":316,
+    "business_id":5829,
+    "business_name":"LAFAYETTE ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409647,37.784303 ]
+    },
+    "properties": {
+    "FIELD1":317,
+    "business_id":62064,
+    "business_name":"California Grocery"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.398168,37.793424 ]
+    },
+    "properties": {
+    "FIELD1":321,
+    "business_id":61856,
+    "business_name":"Yoppi Yogurt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.417887,37.807923 ]
+    },
+    "properties": {
+    "FIELD1":328,
+    "business_id":67187,
+    "business_name":"Chipotle Mexican Grill #1560"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.47308,37.712259 ]
+    },
+    "properties": {
+    "FIELD1":330,
+    "business_id":5951,
+    "business_name":"ST. THOMAS MORE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418224,37.74923 ]
+    },
+    "properties": {
+    "FIELD1":332,
+    "business_id":69792,
+    "business_name":"Samiramis Imports"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.495289,37.723698 ]
+    },
+    "properties": {
+    "FIELD1":333,
+    "business_id":66536,
+    "business_name":"Cypress Grill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.458014,37.786808 ]
+    },
+    "properties": {
+    "FIELD1":353,
+    "business_id":5877,
+    "business_name":"CLAIRE LILIENTHAL SCHOOL-MADISON CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423234,37.794134 ]
+    },
+    "properties": {
+    "FIELD1":354,
+    "business_id":300,
+    "business_name":"SUBWAY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.43368,37.734483 ]
+    },
+    "properties": {
+    "FIELD1":355,
+    "business_id":1339,
+    "business_name":"HIGHER GROUNDS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.432379,37.734619 ]
+    },
+    "properties": {
+    "FIELD1":360,
+    "business_id":5033,
+    "business_name":"DESTINATION BAKING COMPANY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433823,37.73473 ]
+    },
+    "properties": {
+    "FIELD1":366,
+    "business_id":60544,
+    "business_name":"Manzoni"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419285,37.760487 ]
+    },
+    "properties": {
+    "FIELD1":370,
+    "business_id":2315,
+    "business_name":"TAQUERIA CAN-CUN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.450227,37.739266 ]
+    },
+    "properties": {
+    "FIELD1":371,
+    "business_id":5819,
+    "business_name":"MIRALOMA ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.443967,37.754685 ]
+    },
+    "properties": {
+    "FIELD1":372,
+    "business_id":5851,
+    "business_name":"ROOFTOP SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.436488,37.759173 ]
+    },
+    "properties": {
+    "FIELD1":374,
+    "business_id":5838,
+    "business_name":"HARVEY MILK ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.470308,37.745374 ]
+    },
+    "properties": {
+    "FIELD1":375,
+    "business_id":5843,
+    "business_name":"HOOVER MIDDLE SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.43104,37.742294 ]
+    },
+    "properties": {
+    "FIELD1":379,
+    "business_id":5818,
+    "business_name":"MISSION ED. CENTER ELEMENTARY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.469292,37.759386 ]
+    },
+    "properties": {
+    "FIELD1":380,
+    "business_id":5839,
+    "business_name":"ALICE FONG YU ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.436377,37.767231 ]
+    },
+    "properties": {
+    "FIELD1":383,
+    "business_id":5837,
+    "business_name":"MCKINLEY ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423558,37.751923 ]
+    },
+    "properties": {
+    "FIELD1":386,
+    "business_id":5952,
+    "business_name":"IMMACULATE CONCPTION ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.448971,37.722933 ]
+    },
+    "properties": {
+    "FIELD1":387,
+    "business_id":5950,
+    "business_name":"LICK-WILMERDING HIGH SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.430106,37.725199 ]
+    },
+    "properties": {
+    "FIELD1":389,
+    "business_id":5898,
+    "business_name":"MONROE ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.386391,37.732408 ]
+    },
+    "properties": {
+    "FIELD1":390,
+    "business_id":5852,
+    "business_name":"CARVER ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.461991,37.721794 ]
+    },
+    "properties": {
+    "FIELD1":395,
+    "business_id":4850,
+    "business_name":"COOL GUYS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.432348,37.725657 ]
+    },
+    "properties": {
+    "FIELD1":397,
+    "business_id":5894,
+    "business_name":"SAN FRANCISCO COMMUNITY ELEM.SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.404832,37.784915 ]
+    },
+    "properties": {
+    "FIELD1":398,
+    "business_id":3394,
+    "business_name":"The Keystone"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.45085,37.745674 ]
+    },
+    "properties": {
+    "FIELD1":399,
+    "business_id":5855,
+    "business_name":"SOTA (SCHOOL OF THE ARTS)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.47359,37.731781 ]
+    },
+    "properties": {
+    "FIELD1":404,
+    "business_id":3262,
+    "business_name":"VILLA D'ESTE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.429776,37.785961 ]
+    },
+    "properties": {
+    "FIELD1":405,
+    "business_id":1567,
+    "business_name":"TANPOPO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4442,37.757398 ]
+    },
+    "properties": {
+    "FIELD1":406,
+    "business_id":13374,
+    "business_name":"Rooftop Middle School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.475639,37.728497 ]
+    },
+    "properties": {
+    "FIELD1":407,
+    "business_id":1882,
+    "business_name":"Sorabol-Stonestown Galleria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.405059,37.781567 ]
+    },
+    "properties": {
+    "FIELD1":408,
+    "business_id":2134,
+    "business_name":"CHIEFTAIN IRISH PUB, THE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419293,37.750243 ]
+    },
+    "properties": {
+    "FIELD1":409,
+    "business_id":5812,
+    "business_name":"Zaida T. Rodriguez (ZTR) Annex Child Development Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420198,37.753704 ]
+    },
+    "properties": {
+    "FIELD1":411,
+    "business_id":5811,
+    "business_name":"MANN MIDDLE SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.478441,37.730105 ]
+    },
+    "properties": {
+    "FIELD1":412,
+    "business_id":1147,
+    "business_name":"UA Twin Stonestown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.456517,37.751552 ]
+    },
+    "properties": {
+    "FIELD1":413,
+    "business_id":5844,
+    "business_name":"CLARENDON ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.427116,37.748594 ]
+    },
+    "properties": {
+    "FIELD1":424,
+    "business_id":1332,
+    "business_name":"CHLOE'S"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.411648,37.732518 ]
+    },
+    "properties": {
+    "FIELD1":428,
+    "business_id":5926,
+    "business_name":"SAN FRANCISCO SCHOOL, THE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.42125,37.748044 ]
+    },
+    "properties": {
+    "FIELD1":431,
+    "business_id":65291,
+    "business_name":"CMPC - St. Lukes Cafeteria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421132,37.736683 ]
+    },
+    "properties": {
+    "FIELD1":432,
+    "business_id":5804,
+    "business_name":"JUNIPERO SERRA ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.400124,37.792237 ]
+    },
+    "properties": {
+    "FIELD1":433,
+    "business_id":61669,
+    "business_name":"Good Eats Cafe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.429925,37.785994 ]
+    },
+    "properties": {
+    "FIELD1":434,
+    "business_id":3050,
+    "business_name":"Benkyodo Co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420352,37.789299 ]
+    },
+    "properties": {
+    "FIELD1":437,
+    "business_id":64379,
+    "business_name":"Piccadilly Fish & Chips"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.452273,37.723638 ]
+    },
+    "properties": {
+    "FIELD1":442,
+    "business_id":59331,
+    "business_name":"The Lunch Box"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.462776,37.725404 ]
+    },
+    "properties": {
+    "FIELD1":445,
+    "business_id":2808,
+    "business_name":"NEW EMMY'S RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.477186,37.763802 ]
+    },
+    "properties": {
+    "FIELD1":447,
+    "business_id":6686,
+    "business_name":"Chevron #1539"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.446784,37.798558 ]
+    },
+    "properties": {
+    "FIELD1":451,
+    "business_id":6001,
+    "business_name":"PRESIDIO GATE APARTMENTS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.41832,37.769751 ]
+    },
+    "properties": {
+    "FIELD1":452,
+    "business_id":69195,
+    "business_name":"Center Cafe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.45561,37.711558 ]
+    },
+    "properties": {
+    "FIELD1":454,
+    "business_id":4952,
+    "business_name":"CHEVRON STATIONS INC. #1727"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.424311,37.766424 ]
+    },
+    "properties": {
+    "FIELD1":457,
+    "business_id":4475,
+    "business_name":"Spot Light Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418134,37.748855 ]
+    },
+    "properties": {
+    "FIELD1":460,
+    "business_id":1005,
+    "business_name":"CHAVITA'S MEXICAN RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420534,37.756997 ]
+    },
+    "properties": {
+    "FIELD1":461,
+    "business_id":999,
+    "business_name":"SERRANO'S PIZZA II"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.422914,37.752118 ]
+    },
+    "properties": {
+    "FIELD1":462,
+    "business_id":4874,
+    "business_name":"JUMP START COFFEE & GROCERY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.43175,37.74949 ]
+    },
+    "properties": {
+    "FIELD1":464,
+    "business_id":5813,
+    "business_name":"LICK MIDDLE SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.429004,37.720765 ]
+    },
+    "properties": {
+    "FIELD1":465,
+    "business_id":5893,
+    "business_name":"CLEVELAND ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.438696,37.753684 ]
+    },
+    "properties": {
+    "FIELD1":475,
+    "business_id":5815,
+    "business_name":"ALVARADO ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.436286,37.751403 ]
+    },
+    "properties": {
+    "FIELD1":477,
+    "business_id":7361,
+    "business_name":"PastaGina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.430141,37.783604 ]
+    },
+    "properties": {
+    "FIELD1":484,
+    "business_id":5835,
+    "business_name":"Rosa Parks Elementary School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.404171,37.791149 ]
+    },
+    "properties": {
+    "FIELD1":485,
+    "business_id":69368,
+    "business_name":"Onigilly"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.430883,37.786428 ]
+    },
+    "properties": {
+    "FIELD1":486,
+    "business_id":6025,
+    "business_name":"KIMOCHI INC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.408507,37.788918 ]
+    },
+    "properties": {
+    "FIELD1":487,
+    "business_id":63651,
+    "business_name":"SFDH - Employee Cafeteria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.430283,37.786498 ]
+    },
+    "properties": {
+    "FIELD1":488,
+    "business_id":1724,
+    "business_name":"CAFE MUMS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.45299,37.787364 ]
+    },
+    "properties": {
+    "FIELD1":490,
+    "business_id":2755,
+    "business_name":"SOCIALE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420164,37.787924 ]
+    },
+    "properties": {
+    "FIELD1":494,
+    "business_id":7517,
+    "business_name":"Discount Grocers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.426234,37.787017 ]
+    },
+    "properties": {
+    "FIELD1":495,
+    "business_id":2031,
+    "business_name":"KENMORE RESIDENCE CLUB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.39939,37.753196 ]
+    },
+    "properties": {
+    "FIELD1":496,
+    "business_id":5866,
+    "business_name":"KING ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.408507,37.788918 ]
+    },
+    "properties": {
+    "FIELD1":497,
+    "business_id":63652,
+    "business_name":"SFDH - Banquet Main Kitchen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.416107,37.762074 ]
+    },
+    "properties": {
+    "FIELD1":500,
+    "business_id":5913,
+    "business_name":"ST CHARLES SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.408439,37.788782 ]
+    },
+    "properties": {
+    "FIELD1":501,
+    "business_id":63646,
+    "business_name":"SFDH - Harry Denton's Starlight Room"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.426964,37.786928 ]
+    },
+    "properties": {
+    "FIELD1":504,
+    "business_id":68258,
+    "business_name":"A&M LIQUOR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.43755,37.721191 ]
+    },
+    "properties": {
+    "FIELD1":509,
+    "business_id":2766,
+    "business_name":"TAQUERIA GUADALAJARA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.435894,37.798835 ]
+    },
+    "properties": {
+    "FIELD1":516,
+    "business_id":3877,
+    "business_name":"BALBOA CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.497934,37.708887 ]
+    },
+    "properties": {
+    "FIELD1":518,
+    "business_id":2840,
+    "business_name":"THE OLYMPIC CLUB AT LAKESIDE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.497934,37.708887 ]
+    },
+    "properties": {
+    "FIELD1":519,
+    "business_id":2841,
+    "business_name":"THE OLYMPIC CLUB AT LAKESIDE, UPPER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433817,37.726117 ]
+    },
+    "properties": {
+    "FIELD1":521,
+    "business_id":1426,
+    "business_name":"SWEET DELIGHT BAKERY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418389,37.787288 ]
+    },
+    "properties": {
+    "FIELD1":522,
+    "business_id":24198,
+    "business_name":"Olivo's Taqueria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421855,37.764148 ]
+    },
+    "properties": {
+    "FIELD1":527,
+    "business_id":2980,
+    "business_name":"PUERTO ALEGRE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.427549,37.768743 ]
+    },
+    "properties": {
+    "FIELD1":543,
+    "business_id":4509,
+    "business_name":"AFC SUSHI @ SAFEWAY 1507"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.477651,37.720877 ]
+    },
+    "properties": {
+    "FIELD1":547,
+    "business_id":68944,
+    "business_name":"Peet's Coffee and Tea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.476332,37.763543 ]
+    },
+    "properties": {
+    "FIELD1":548,
+    "business_id":5841,
+    "business_name":"JEFFERSON ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.478029,37.720894 ]
+    },
+    "properties": {
+    "FIELD1":550,
+    "business_id":37820,
+    "business_name":"Natural Sensations"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.462709,37.782993 ]
+    },
+    "properties": {
+    "FIELD1":551,
+    "business_id":4643,
+    "business_name":"CHEUNG HING CHINESE DELI & MEAT INC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.483612,37.723054 ]
+    },
+    "properties": {
+    "FIELD1":553,
+    "business_id":187,
+    "business_name":"TAZA WRAPS & JUICE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.40077,37.789804 ]
+    },
+    "properties": {
+    "FIELD1":555,
+    "business_id":38530,
+    "business_name":"Portico IV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.428997,37.772274 ]
+    },
+    "properties": {
+    "FIELD1":557,
+    "business_id":2384,
+    "business_name":"TWO JACKS SEAFOOD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.478732,37.742948 ]
+    },
+    "properties": {
+    "FIELD1":559,
+    "business_id":5118,
+    "business_name":"KFC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.431482,37.728582 ]
+    },
+    "properties": {
+    "FIELD1":568,
+    "business_id":36208,
+    "business_name":"Silver Cafe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.490726,37.733901 ]
+    },
+    "properties": {
+    "FIELD1":570,
+    "business_id":14005,
+    "business_name":"Yuyu Sushi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.425535,37.801218 ]
+    },
+    "properties": {
+    "FIELD1":575,
+    "business_id":2725,
+    "business_name":"BOBOQUIVARI'S"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.436017,37.72304 ]
+    },
+    "properties": {
+    "FIELD1":576,
+    "business_id":4801,
+    "business_name":"YICK'S LIQUOR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.438242,37.751068 ]
+    },
+    "properties": {
+    "FIELD1":578,
+    "business_id":2676,
+    "business_name":"FIREFLY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.437679,37.735264 ]
+    },
+    "properties": {
+    "FIELD1":580,
+    "business_id":5959,
+    "business_name":"ST. JOHN'S SNACK BAR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.440057,37.786407 ]
+    },
+    "properties": {
+    "FIELD1":584,
+    "business_id":628,
+    "business_name":"EL BURRITO EXPRESS #2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.476785,37.775155 ]
+    },
+    "properties": {
+    "FIELD1":587,
+    "business_id":5912,
+    "business_name":"ARGONNE ALTERNATIVE ELEMENTARY SCHO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.431472,37.785227 ]
+    },
+    "properties": {
+    "FIELD1":589,
+    "business_id":272,
+    "business_name":"ON THE BRIDGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.430317,37.785457 ]
+    },
+    "properties": {
+    "FIELD1":591,
+    "business_id":3690,
+    "business_name":"BENIHANA OF TOKYO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423577,37.759824 ]
+    },
+    "properties": {
+    "FIELD1":596,
+    "business_id":27306,
+    "business_name":"Guerrero Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423553,37.759934 ]
+    },
+    "properties": {
+    "FIELD1":597,
+    "business_id":1243,
+    "business_name":"JAVA SUPREME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423862,37.761531 ]
+    },
+    "properties": {
+    "FIELD1":599,
+    "business_id":3615,
+    "business_name":"TARTINE BAKERY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.428627,37.772323 ]
+    },
+    "properties": {
+    "FIELD1":600,
+    "business_id":4893,
+    "business_name":"S & W MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.477391,37.742998 ]
+    },
+    "properties": {
+    "FIELD1":603,
+    "business_id":70929,
+    "business_name":"Linda's Deli"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409002,37.765708 ]
+    },
+    "properties": {
+    "FIELD1":607,
+    "business_id":3920,
+    "business_name":"BOSTON MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.477084,37.720851 ]
+    },
+    "properties": {
+    "FIELD1":611,
+    "business_id":4519,
+    "business_name":"HSS 121 CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.405255,37.796152 ]
+    },
+    "properties": {
+    "FIELD1":612,
+    "business_id":59002,
+    "business_name":"Yummy Bakery & Restaurant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.436536,37.800763 ]
+    },
+    "properties": {
+    "FIELD1":614,
+    "business_id":305,
+    "business_name":"PACIFIC CATCH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.408736,37.789521 ]
+    },
+    "properties": {
+    "FIELD1":616,
+    "business_id":62060,
+    "business_name":"Cozy Cable Car Cafe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.482911,37.782128 ]
+    },
+    "properties": {
+    "FIELD1":618,
+    "business_id":1983,
+    "business_name":"Four Star Theatre - Snack Bar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419299,37.768274 ]
+    },
+    "properties": {
+    "FIELD1":619,
+    "business_id":4906,
+    "business_name":"NEW STAR MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.460726,37.724824 ]
+    },
+    "properties": {
+    "FIELD1":620,
+    "business_id":619,
+    "business_name":"A-1 BAKERY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.447907,37.710685 ]
+    },
+    "properties": {
+    "FIELD1":625,
+    "business_id":61915,
+    "business_name":"La Loma Produce Nos. 3 & 9 Inc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.435774,37.798273 ]
+    },
+    "properties": {
+    "FIELD1":627,
+    "business_id":65624,
+    "business_name":"Tacko Shop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.502535,37.73017 ]
+    },
+    "properties": {
+    "FIELD1":629,
+    "business_id":2974,
+    "business_name":"LEAPING LEMUR CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.411191,37.8012 ]
+    },
+    "properties": {
+    "FIELD1":630,
+    "business_id":69172,
+    "business_name":"Victoria Pastry Co."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.469855,37.730139 ]
+    },
+    "properties": {
+    "FIELD1":631,
+    "business_id":4630,
+    "business_name":"Zanze's Cheesecake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419484,37.776133 ]
+    },
+    "properties": {
+    "FIELD1":632,
+    "business_id":63619,
+    "business_name":"Subway Sandwiches"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.502535,37.73017 ]
+    },
+    "properties": {
+    "FIELD1":643,
+    "business_id":5552,
+    "business_name":"WILDLIFE CONNECTION ESPRESSO CART"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412819,37.775314 ]
+    },
+    "properties": {
+    "FIELD1":646,
+    "business_id":7449,
+    "business_name":"CHEVRON #1760"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.42156,37.762381 ]
+    },
+    "properties": {
+    "FIELD1":647,
+    "business_id":69175,
+    "business_name":"Mau Restaurant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.416866,37.758634 ]
+    },
+    "properties": {
+    "FIELD1":651,
+    "business_id":2454,
+    "business_name":"San Jalisco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.405863,37.793907 ]
+    },
+    "properties": {
+    "FIELD1":652,
+    "business_id":64653,
+    "business_name":"Mow Lee Company"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419066,37.759174 ]
+    },
+    "properties": {
+    "FIELD1":653,
+    "business_id":4864,
+    "business_name":"DRAGON CITY BAKERY & CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.434065,37.750778 ]
+    },
+    "properties": {
+    "FIELD1":655,
+    "business_id":2750,
+    "business_name":"HAMANO SUSHI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.414656,37.759054 ]
+    },
+    "properties": {
+    "FIELD1":656,
+    "business_id":4922,
+    "business_name":"EL FARO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423256,37.75527 ]
+    },
+    "properties": {
+    "FIELD1":657,
+    "business_id":3616,
+    "business_name":"THE LIBERTIES IRISH BAR & REST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.41888,37.757436 ]
+    },
+    "properties": {
+    "FIELD1":664,
+    "business_id":1366,
+    "business_name":"CAFE LA TAZA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420217,37.745158 ]
+    },
+    "properties": {
+    "FIELD1":669,
+    "business_id":2689,
+    "business_name":"THE BLUE PLATE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420004,37.745516 ]
+    },
+    "properties": {
+    "FIELD1":676,
+    "business_id":2690,
+    "business_name":"LOS PANCHOS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.402816,37.783257 ]
+    },
+    "properties": {
+    "FIELD1":679,
+    "business_id":19056,
+    "business_name":"Moscone Center West -  3 Flr. Pantry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.402816,37.783257 ]
+    },
+    "properties": {
+    "FIELD1":680,
+    "business_id":19055,
+    "business_name":"Moscone Center West - Bsmt Kitchen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.397023,37.793632 ]
+    },
+    "properties": {
+    "FIELD1":682,
+    "business_id":2777,
+    "business_name":"Starbucks Coffee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423585,37.795993 ]
+    },
+    "properties": {
+    "FIELD1":684,
+    "business_id":2542,
+    "business_name":"PETER D'S RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423869,37.761603 ]
+    },
+    "properties": {
+    "FIELD1":685,
+    "business_id":66895,
+    "business_name":"Izakaya Yuzuki"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.434533,37.797238 ]
+    },
+    "properties": {
+    "FIELD1":686,
+    "business_id":65057,
+    "business_name":"The Brixton"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.406761,37.774722 ]
+    },
+    "properties": {
+    "FIELD1":688,
+    "business_id":33728,
+    "business_name":"Split Pea Seduction"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.402816,37.783257 ]
+    },
+    "properties": {
+    "FIELD1":692,
+    "business_id":19057,
+    "business_name":"Moscone Center West -  2nd Flr. Pantry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.466459,37.740283 ]
+    },
+    "properties": {
+    "FIELD1":697,
+    "business_id":4539,
+    "business_name":"PEET'S COFFEE & TEA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.465631,37.782939 ]
+    },
+    "properties": {
+    "FIELD1":699,
+    "business_id":68467,
+    "business_name":"Yong Fong Co."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.466749,37.739883 ]
+    },
+    "properties": {
+    "FIELD1":700,
+    "business_id":4667,
+    "business_name":"EMPIRE THEATRE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.435804,37.798403 ]
+    },
+    "properties": {
+    "FIELD1":703,
+    "business_id":65060,
+    "business_name":"Atelier Crenn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419185,37.759567 ]
+    },
+    "properties": {
+    "FIELD1":708,
+    "business_id":2347,
+    "business_name":"LAS TINAJAS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418975,37.758684 ]
+    },
+    "properties": {
+    "FIELD1":709,
+    "business_id":1018,
+    "business_name":"PETES BARBEQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.402816,37.783257 ]
+    },
+    "properties": {
+    "FIELD1":718,
+    "business_id":19058,
+    "business_name":"Moscone Center West - 1st Flr. Pantry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.424269,37.736438 ]
+    },
+    "properties": {
+    "FIELD1":725,
+    "business_id":21982,
+    "business_name":"Chico's Grill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.437649,37.799807 ]
+    },
+    "properties": {
+    "FIELD1":728,
+    "business_id":281,
+    "business_name":"PARMA RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.434074,37.786988 ]
+    },
+    "properties": {
+    "FIELD1":730,
+    "business_id":59838,
+    "business_name":"OTD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.441041,37.799796 ]
+    },
+    "properties": {
+    "FIELD1":731,
+    "business_id":2497,
+    "business_name":"PLUTO'S"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.426336,37.752274 ]
+    },
+    "properties": {
+    "FIELD1":734,
+    "business_id":66411,
+    "business_name":"Del Popolo LLC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433574,37.787553 ]
+    },
+    "properties": {
+    "FIELD1":736,
+    "business_id":1764,
+    "business_name":"FLORIO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.466615,37.782534 ]
+    },
+    "properties": {
+    "FIELD1":738,
+    "business_id":544,
+    "business_name":"THAI TIME RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433409,37.751314 ]
+    },
+    "properties": {
+    "FIELD1":742,
+    "business_id":4434,
+    "business_name":"NOE VALLEY BAKERY & BREAD CO."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.438775,37.71954 ]
+    },
+    "properties": {
+    "FIELD1":744,
+    "business_id":7747,
+    "business_name":"SAFEWAY STORE #964"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.429754,37.786568 ]
+    },
+    "properties": {
+    "FIELD1":745,
+    "business_id":7575,
+    "business_name":"SUPER MIRA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.429815,37.78659 ]
+    },
+    "properties": {
+    "FIELD1":747,
+    "business_id":7764,
+    "business_name":"YASUKOCHI'S SWEET SHOP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.432147,37.788113 ]
+    },
+    "properties": {
+    "FIELD1":755,
+    "business_id":26341,
+    "business_name":"Natural Market, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.466544,37.740052 ]
+    },
+    "properties": {
+    "FIELD1":756,
+    "business_id":741,
+    "business_name":"MOZZARELLA DI BUFALA PIZZERIA II"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419945,37.745433 ]
+    },
+    "properties": {
+    "FIELD1":757,
+    "business_id":2749,
+    "business_name":"TAQUERIA CANCUN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421546,37.743206 ]
+    },
+    "properties": {
+    "FIELD1":758,
+    "business_id":3870,
+    "business_name":"LA ALTENA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.46766,37.739223 ]
+    },
+    "properties": {
+    "FIELD1":759,
+    "business_id":70838,
+    "business_name":"Trattoria Da Vittorio"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.403582,37.727468 ]
+    },
+    "properties": {
+    "FIELD1":761,
+    "business_id":379,
+    "business_name":"GIANT SCOOP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415334,37.781697 ]
+    },
+    "properties": {
+    "FIELD1":762,
+    "business_id":61953,
+    "business_name":"Allstars Donuts & Burgers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.40426,37.729254 ]
+    },
+    "properties": {
+    "FIELD1":765,
+    "business_id":35199,
+    "business_name":"Pho #1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.465389,37.740654 ]
+    },
+    "properties": {
+    "FIELD1":783,
+    "business_id":587,
+    "business_name":"NEW TSING TAO RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.46573,37.740944 ]
+    },
+    "properties": {
+    "FIELD1":784,
+    "business_id":70434,
+    "business_name":"Burrito Loco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.425527,37.794494 ]
+    },
+    "properties": {
+    "FIELD1":786,
+    "business_id":4947,
+    "business_name":"AVENUE FINE FOODS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.403452,37.727159 ]
+    },
+    "properties": {
+    "FIELD1":789,
+    "business_id":2599,
+    "business_name":"HONG KONG RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.422275,37.768677 ]
+    },
+    "properties": {
+    "FIELD1":792,
+    "business_id":3752,
+    "business_name":"Pauline's Pizza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.437864,37.800384 ]
+    },
+    "properties": {
+    "FIELD1":797,
+    "business_id":3885,
+    "business_name":"IZZY'S STEAK & CHOP HOUSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.437756,37.800187 ]
+    },
+    "properties": {
+    "FIELD1":799,
+    "business_id":290,
+    "business_name":"BISTRO AIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420031,37.778272 ]
+    },
+    "properties": {
+    "FIELD1":801,
+    "business_id":3929,
+    "business_name":"OPERA HOUSE - BASEMENT,LOWER LOUNGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.431336,37.771964 ]
+    },
+    "properties": {
+    "FIELD1":804,
+    "business_id":3631,
+    "business_name":"NOC NOC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.442097,37.800043 ]
+    },
+    "properties": {
+    "FIELD1":807,
+    "business_id":10668,
+    "business_name":"A16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.460845,37.788807 ]
+    },
+    "properties": {
+    "FIELD1":809,
+    "business_id":1989,
+    "business_name":"PRESIDIO GOLF CLUB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.468438,37.738434 ]
+    },
+    "properties": {
+    "FIELD1":810,
+    "business_id":69217,
+    "business_name":"Orexi Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.465507,37.740785 ]
+    },
+    "properties": {
+    "FIELD1":811,
+    "business_id":1950,
+    "business_name":"BULLSHEAD RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423134,37.775918 ]
+    },
+    "properties": {
+    "FIELD1":812,
+    "business_id":64351,
+    "business_name":"Fatted Calf SF"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433485,37.726489 ]
+    },
+    "properties": {
+    "FIELD1":814,
+    "business_id":36160,
+    "business_name":"Zabb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.406922,37.783074 ]
+    },
+    "properties": {
+    "FIELD1":821,
+    "business_id":29948,
+    "business_name":"Cafe Venue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407563,37.784317 ]
+    },
+    "properties": {
+    "FIELD1":823,
+    "business_id":1664,
+    "business_name":"PANDA EXPRESS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418414,37.751356 ]
+    },
+    "properties": {
+    "FIELD1":827,
+    "business_id":4558,
+    "business_name":"KING'S BAKERY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.406892,37.784848 ]
+    },
+    "properties": {
+    "FIELD1":828,
+    "business_id":28044,
+    "business_name":"Century Theatres"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419356,37.775867 ]
+    },
+    "properties": {
+    "FIELD1":829,
+    "business_id":1139,
+    "business_name":"MINI CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.416873,37.782458 ]
+    },
+    "properties": {
+    "FIELD1":830,
+    "business_id":3038,
+    "business_name":"TURK & LARKIN DELI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412,37.808494 ]
+    },
+    "properties": {
+    "FIELD1":833,
+    "business_id":61959,
+    "business_name":"Expressions Snack Bar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433476,37.726402 ]
+    },
+    "properties": {
+    "FIELD1":844,
+    "business_id":25167,
+    "business_name":"Glaze Donuts"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433906,37.725949 ]
+    },
+    "properties": {
+    "FIELD1":845,
+    "business_id":253,
+    "business_name":"Ann's Donut Coffee Shop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419357,37.783713 ]
+    },
+    "properties": {
+    "FIELD1":846,
+    "business_id":1111,
+    "business_name":"SUBWAY 16604"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421534,37.761147 ]
+    },
+    "properties": {
+    "FIELD1":848,
+    "business_id":65051,
+    "business_name":"Mission Cheese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.413496,37.780435 ]
+    },
+    "properties": {
+    "FIELD1":852,
+    "business_id":62445,
+    "business_name":"Bistro 10 UN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407563,37.784317 ]
+    },
+    "properties": {
+    "FIELD1":856,
+    "business_id":744,
+    "business_name":"Cafe Bellini"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.405051,37.783827 ]
+    },
+    "properties": {
+    "FIELD1":859,
+    "business_id":39113,
+    "business_name":"Green Papaya Restaurant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.441498,37.785093 ]
+    },
+    "properties": {
+    "FIELD1":862,
+    "business_id":4700,
+    "business_name":"STEWART'S MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.40943,37.778033 ]
+    },
+    "properties": {
+    "FIELD1":864,
+    "business_id":4787,
+    "business_name":"TONY BALONEY'S"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407563,37.784317 ]
+    },
+    "properties": {
+    "FIELD1":872,
+    "business_id":19416,
+    "business_name":"Starbucks"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.462874,37.77721 ]
+    },
+    "properties": {
+    "FIELD1":873,
+    "business_id":557,
+    "business_name":"KATIA'S"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.432926,37.727111 ]
+    },
+    "properties": {
+    "FIELD1":875,
+    "business_id":62179,
+    "business_name":"Pampanguena Cuisine"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4659,37.764033 ]
+    },
+    "properties": {
+    "FIELD1":876,
+    "business_id":64524,
+    "business_name":"Fresca Restaurant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.417123,37.76031 ]
+    },
+    "properties": {
+    "FIELD1":882,
+    "business_id":1619,
+    "business_name":"BENDERS BAR & GRILL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415109,37.752512 ]
+    },
+    "properties": {
+    "FIELD1":886,
+    "business_id":32671,
+    "business_name":"La Taqueria Guadalajara"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415453,37.803984 ]
+    },
+    "properties": {
+    "FIELD1":887,
+    "business_id":3895,
+    "business_name":"Cable Car Restaurant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419214,37.790798 ]
+    },
+    "properties": {
+    "FIELD1":889,
+    "business_id":63413,
+    "business_name":"Mymy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.45461,37.723652 ]
+    },
+    "properties": {
+    "FIELD1":890,
+    "business_id":69769,
+    "business_name":"Whole Foods Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407563,37.784317 ]
+    },
+    "properties": {
+    "FIELD1":891,
+    "business_id":403,
+    "business_name":"HAAGEN-DAZS #561"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420585,37.752162 ]
+    },
+    "properties": {
+    "FIELD1":892,
+    "business_id":7087,
+    "business_name":"VALENCIA FARMER'S MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415182,37.778357 ]
+    },
+    "properties": {
+    "FIELD1":894,
+    "business_id":4789,
+    "business_name":"WHITCOMB  HOTEL- EMPLOYEES / BSMT CAFETERIA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.430814,37.772097 ]
+    },
+    "properties": {
+    "FIELD1":895,
+    "business_id":3630,
+    "business_name":"MAD DOG IN THE FOG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.405634,37.790874 ]
+    },
+    "properties": {
+    "FIELD1":896,
+    "business_id":903,
+    "business_name":"Sabra Restaurant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415182,37.778357 ]
+    },
+    "properties": {
+    "FIELD1":898,
+    "business_id":3095,
+    "business_name":"Whitcomb Hotel Bar & Grill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.402952,37.783037 ]
+    },
+    "properties": {
+    "FIELD1":901,
+    "business_id":6030,
+    "business_name":"Woolf House Senior Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407563,37.784317 ]
+    },
+    "properties": {
+    "FIELD1":903,
+    "business_id":26149,
+    "business_name":"Mrs. Fields Cookies"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.445962,37.798172 ]
+    },
+    "properties": {
+    "FIELD1":936,
+    "business_id":63406,
+    "business_name":"Baker Street Bistro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.406892,37.784848 ]
+    },
+    "properties": {
+    "FIELD1":937,
+    "business_id":37792,
+    "business_name":"Auntie Anne's Pretzels"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418884,37.756417 ]
+    },
+    "properties": {
+    "FIELD1":938,
+    "business_id":2893,
+    "business_name":"FOREIGN CINEMA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.417402,37.749128 ]
+    },
+    "properties": {
+    "FIELD1":947,
+    "business_id":1003,
+    "business_name":"RINCON PERUANO RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.472422,37.763798 ]
+    },
+    "properties": {
+    "FIELD1":949,
+    "business_id":68909,
+    "business_name":"Cafe La Flore"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.406892,37.784848 ]
+    },
+    "properties": {
+    "FIELD1":953,
+    "business_id":27799,
+    "business_name":"Buckhorn Grill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.422962,37.77694 ]
+    },
+    "properties": {
+    "FIELD1":954,
+    "business_id":3611,
+    "business_name":"ABSINTHE BRASSERIE & BAR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.475673,37.726891 ]
+    },
+    "properties": {
+    "FIELD1":955,
+    "business_id":39862,
+    "business_name":"Trader Joe's #236"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.475639,37.728497 ]
+    },
+    "properties": {
+    "FIELD1":956,
+    "business_id":522,
+    "business_name":"Boudin Sourdough Bakery"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.434697,37.788773 ]
+    },
+    "properties": {
+    "FIELD1":957,
+    "business_id":4492,
+    "business_name":"Mollie Stone's Grand Central Market (Mezzanine Level)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.43894,37.721776 ]
+    },
+    "properties": {
+    "FIELD1":965,
+    "business_id":3263,
+    "business_name":"Croatian Cultural Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.434697,37.788773 ]
+    },
+    "properties": {
+    "FIELD1":967,
+    "business_id":3046,
+    "business_name":"Mollie Stone's Grand Central Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421638,37.742998 ]
+    },
+    "properties": {
+    "FIELD1":972,
+    "business_id":3869,
+    "business_name":"SAFEWAY #739"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.403991,37.728458 ]
+    },
+    "properties": {
+    "FIELD1":973,
+    "business_id":3862,
+    "business_name":"IMPERIAL GARDEN SEAFOOD RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.437834,37.800215 ]
+    },
+    "properties": {
+    "FIELD1":983,
+    "business_id":3727,
+    "business_name":"ACE WASABI'S ROCK N ROLL SUSHI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.424318,37.761514 ]
+    },
+    "properties": {
+    "FIELD1":984,
+    "business_id":856,
+    "business_name":"DELFINA RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.441454,37.800188 ]
+    },
+    "properties": {
+    "FIELD1":987,
+    "business_id":10615,
+    "business_name":"Rulli Risto-Bar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433714,37.788193 ]
+    },
+    "properties": {
+    "FIELD1":991,
+    "business_id":65086,
+    "business_name":"Bun Mee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.449709,37.709857 ]
+    },
+    "properties": {
+    "FIELD1":995,
+    "business_id":615,
+    "business_name":"J & A RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433106,37.805073 ]
+    },
+    "properties": {
+    "FIELD1":996,
+    "business_id":4957,
+    "business_name":"Safeway Stores Inc #711"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.461545,37.786766 ]
+    },
+    "properties": {
+    "FIELD1":1005,
+    "business_id":2008,
+    "business_name":"Hook a Cook"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.446247,37.770063 ]
+    },
+    "properties": {
+    "FIELD1":1006,
+    "business_id":1047,
+    "business_name":"PORK STORE CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4437,37.77036 ]
+    },
+    "properties": {
+    "FIELD1":1010,
+    "business_id":7105,
+    "business_name":"CENTRAL HAIGHT MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415121,37.749851 ]
+    },
+    "properties": {
+    "FIELD1":1015,
+    "business_id":59044,
+    "business_name":"Taqueria Cazadores"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409274,37.784094 ]
+    },
+    "properties": {
+    "FIELD1":1017,
+    "business_id":63503,
+    "business_name":"Mason Street Deli and Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.449874,37.765164 ]
+    },
+    "properties": {
+    "FIELD1":1020,
+    "business_id":59872,
+    "business_name":"KAMEKYO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.414078,37.738893 ]
+    },
+    "properties": {
+    "FIELD1":1021,
+    "business_id":34708,
+    "business_name":"Piqueos LLC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.451961,37.769303 ]
+    },
+    "properties": {
+    "FIELD1":1023,
+    "business_id":62051,
+    "business_name":"Parada 22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.422314,37.789645 ]
+    },
+    "properties": {
+    "FIELD1":1026,
+    "business_id":7576,
+    "business_name":"CHEVRON STATIONS INC. #1522"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.449914,37.765343 ]
+    },
+    "properties": {
+    "FIELD1":1031,
+    "business_id":1595,
+    "business_name":"Zazie"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.441187,37.716643 ]
+    },
+    "properties": {
+    "FIELD1":1036,
+    "business_id":5096,
+    "business_name":"POPEYES-GENEVA & MISSION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433476,37.726402 ]
+    },
+    "properties": {
+    "FIELD1":1037,
+    "business_id":1362,
+    "business_name":"RESTAURANTE FAMILIAR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.428182,37.787639 ]
+    },
+    "properties": {
+    "FIELD1":1042,
+    "business_id":8750,
+    "business_name":"Kokoro Assisted Living"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.439655,37.718359 ]
+    },
+    "properties": {
+    "FIELD1":1043,
+    "business_id":3252,
+    "business_name":"LITTLE JOES PIZZA REST."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.40447,37.729753 ]
+    },
+    "properties": {
+    "FIELD1":1044,
+    "business_id":70685,
+    "business_name":"5 Degree Tea House"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420122,37.765049 ]
+    },
+    "properties": {
+    "FIELD1":1046,
+    "business_id":7678,
+    "business_name":"Casa Thai Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.437864,37.775184 ]
+    },
+    "properties": {
+    "FIELD1":1047,
+    "business_id":2374,
+    "business_name":"BEAN BAG COFFEE HOUSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.441846,37.715469 ]
+    },
+    "properties": {
+    "FIELD1":1048,
+    "business_id":1994,
+    "business_name":"EL POLLO SUPREMO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.436976,37.771117 ]
+    },
+    "properties": {
+    "FIELD1":1049,
+    "business_id":1026,
+    "business_name":"PHUKET THAI RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.400052,37.787113 ]
+    },
+    "properties": {
+    "FIELD1":1051,
+    "business_id":6912,
+    "business_name":"STORE ON THE CORNER, THE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.422034,37.797114 ]
+    },
+    "properties": {
+    "FIELD1":1055,
+    "business_id":61816,
+    "business_name":"Bullitt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.406761,37.774722 ]
+    },
+    "properties": {
+    "FIELD1":1059,
+    "business_id":6564,
+    "business_name":"HWA LEI MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.426476,37.742325 ]
+    },
+    "properties": {
+    "FIELD1":1061,
+    "business_id":56,
+    "business_name":"CAFE X + O"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.457571,37.709683 ]
+    },
+    "properties": {
+    "FIELD1":1062,
+    "business_id":4859,
+    "business_name":"7-ELEVEN STORE 2230-23342E"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419112,37.772025 ]
+    },
+    "properties": {
+    "FIELD1":1063,
+    "business_id":3665,
+    "business_name":"Tower Carwash"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423892,37.771437 ]
+    },
+    "properties": {
+    "FIELD1":1064,
+    "business_id":562,
+    "business_name":"DESTINO RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.437047,37.771487 ]
+    },
+    "properties": {
+    "FIELD1":1069,
+    "business_id":151,
+    "business_name":"BUS STOP PIZZA #1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.434488,37.722477 ]
+    },
+    "properties": {
+    "FIELD1":1071,
+    "business_id":7765,
+    "business_name":"HILDA'S MART & BAKE SHOP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407061,37.784679 ]
+    },
+    "properties": {
+    "FIELD1":1077,
+    "business_id":28206,
+    "business_name":"Westfield Food Court Scullery"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421356,37.759944 ]
+    },
+    "properties": {
+    "FIELD1":1078,
+    "business_id":1008,
+    "business_name":"VALENCIA PIZZA & PASTA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.416506,37.755044 ]
+    },
+    "properties": {
+    "FIELD1":1084,
+    "business_id":60616,
+    "business_name":"Sheffield Convalescent Hospital"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.43402,37.788834 ]
+    },
+    "properties": {
+    "FIELD1":1086,
+    "business_id":69753,
+    "business_name":"Sift Cupcake & Dessert Bar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.431336,37.771964 ]
+    },
+    "properties": {
+    "FIELD1":1087,
+    "business_id":1042,
+    "business_name":"LOVE 'N HAIGHT COFFEE & DELI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.406555,37.782659 ]
+    },
+    "properties": {
+    "FIELD1":1089,
+    "business_id":5053,
+    "business_name":"JAVA TRADING CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.422442,37.764908 ]
+    },
+    "properties": {
+    "FIELD1":1093,
+    "business_id":3838,
+    "business_name":"CAFE PICARO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.475639,37.728497 ]
+    },
+    "properties": {
+    "FIELD1":1096,
+    "business_id":3267,
+    "business_name":"The Olive Garden Italian"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407614,37.799697 ]
+    },
+    "properties": {
+    "FIELD1":1110,
+    "business_id":63121,
+    "business_name":"Sodini's Restaurant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423802,37.771497 ]
+    },
+    "properties": {
+    "FIELD1":1114,
+    "business_id":2553,
+    "business_name":"Its Tops Coffee Shop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.430814,37.772097 ]
+    },
+    "properties": {
+    "FIELD1":1116,
+    "business_id":2385,
+    "business_name":"CAFE INTERNATIONAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407517,37.800428 ]
+    },
+    "properties": {
+    "FIELD1":1120,
+    "business_id":845,
+    "business_name":"Cafe Jacqueline"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433611,37.787538 ]
+    },
+    "properties": {
+    "FIELD1":1137,
+    "business_id":69576,
+    "business_name":"Roam Artisan Burgers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.452707,37.723133 ]
+    },
+    "properties": {
+    "FIELD1":1160,
+    "business_id":7689,
+    "business_name":"UNOCAL 76  PACIFIC ENTERPRISES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421784,37.763458 ]
+    },
+    "properties": {
+    "FIELD1":1164,
+    "business_id":3839,
+    "business_name":"EL TORO TAQUERIA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.429309,37.724122 ]
+    },
+    "properties": {
+    "FIELD1":1168,
+    "business_id":7527,
+    "business_name":"DON CHUYS MEXI-MERCADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421356,37.759933 ]
+    },
+    "properties": {
+    "FIELD1":1173,
+    "business_id":2317,
+    "business_name":"BURGER JOINT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.424688,37.761483 ]
+    },
+    "properties": {
+    "FIELD1":1175,
+    "business_id":4481,
+    "business_name":"Bi Rite Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.434072,37.734012 ]
+    },
+    "properties": {
+    "FIELD1":1176,
+    "business_id":69475,
+    "business_name":"La Corneta, Inc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418376,37.751554 ]
+    },
+    "properties": {
+    "FIELD1":1179,
+    "business_id":3623,
+    "business_name":"CHAVA'S"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415243,37.787448 ]
+    },
+    "properties": {
+    "FIELD1":1180,
+    "business_id":21583,
+    "business_name":"Cafe Royale"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.388962,37.789177 ]
+    },
+    "properties": {
+    "FIELD1":1181,
+    "business_id":4824,
+    "business_name":"THE GAP CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.408682,37.776057 ]
+    },
+    "properties": {
+    "FIELD1":1182,
+    "business_id":4620,
+    "business_name":"WELCOME SUPER MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419582,37.76356 ]
+    },
+    "properties": {
+    "FIELD1":1184,
+    "business_id":2447,
+    "business_name":"NEW CASTILLITO INC."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.389239,37.78416 ]
+    },
+    "properties": {
+    "FIELD1":1187,
+    "business_id":4774,
+    "business_name":"BAYSIDE MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.406761,37.774722 ]
+    },
+    "properties": {
+    "FIELD1":1192,
+    "business_id":4438,
+    "business_name":"DIANA MARKET #2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.466375,37.765412 ]
+    },
+    "properties": {
+    "FIELD1":1193,
+    "business_id":68773,
+    "business_name":"Nopalito"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.413439,37.771501 ]
+    },
+    "properties": {
+    "FIELD1":1195,
+    "business_id":3982,
+    "business_name":"SLIM'S"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418406,37.751885 ]
+    },
+    "properties": {
+    "FIELD1":1197,
+    "business_id":1021,
+    "business_name":"LA SANTANECA DE LA MISSION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.496401,37.775818 ]
+    },
+    "properties": {
+    "FIELD1":1201,
+    "business_id":68716,
+    "business_name":"The Sweet House"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.422979,37.764814 ]
+    },
+    "properties": {
+    "FIELD1":1209,
+    "business_id":35591,
+    "business_name":"The Monk's Kettle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.46471,37.764083 ]
+    },
+    "properties": {
+    "FIELD1":1212,
+    "business_id":1949,
+    "business_name":"PLUTO'S"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.437185,37.760317 ]
+    },
+    "properties": {
+    "FIELD1":1213,
+    "business_id":6037,
+    "business_name":"CASTRO SENIOR CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.435168,37.761954 ]
+    },
+    "properties": {
+    "FIELD1":1215,
+    "business_id":4987,
+    "business_name":"ROSSI'S DELI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.43503,37.759253 ]
+    },
+    "properties": {
+    "FIELD1":1217,
+    "business_id":1341,
+    "business_name":"SPIKE'S COFFEES & TEAS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415636,37.739041 ]
+    },
+    "properties": {
+    "FIELD1":1221,
+    "business_id":19170,
+    "business_name":"Vino Rosso"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.446757,37.788183 ]
+    },
+    "properties": {
+    "FIELD1":1222,
+    "business_id":2758,
+    "business_name":"OSTERIA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419475,37.762527 ]
+    },
+    "properties": {
+    "FIELD1":1228,
+    "business_id":2649,
+    "business_name":"WAN KEE RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418255,37.749837 ]
+    },
+    "properties": {
+    "FIELD1":1229,
+    "business_id":5850,
+    "business_name":"Zaida T. Rodriguez (ZTR) Child Development Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418286,37.750855 ]
+    },
+    "properties": {
+    "FIELD1":1231,
+    "business_id":2360,
+    "business_name":"LA TAQUERIA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.388433,37.781865 ]
+    },
+    "properties": {
+    "FIELD1":1237,
+    "business_id":3102,
+    "business_name":"TOWN'S END RESTAURANT & BAKERY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.440904,37.785138 ]
+    },
+    "properties": {
+    "FIELD1":1238,
+    "business_id":3302,
+    "business_name":"RUSSIAN CENTER SOCIAL HALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.408349,37.752833 ]
+    },
+    "properties": {
+    "FIELD1":1241,
+    "business_id":2421,
+    "business_name":"ST FRANCIS FOUNTAIN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.398918,37.783738 ]
+    },
+    "properties": {
+    "FIELD1":1243,
+    "business_id":3065,
+    "business_name":"CHA-AM RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419026,37.765142 ]
+    },
+    "properties": {
+    "FIELD1":1263,
+    "business_id":2409,
+    "business_name":"Mission Hunan Restaurant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.408562,37.776494 ]
+    },
+    "properties": {
+    "FIELD1":1280,
+    "business_id":32586,
+    "business_name":"Terroir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.410876,37.752373 ]
+    },
+    "properties": {
+    "FIELD1":1282,
+    "business_id":4917,
+    "business_name":"LA VICTORIA BAKERY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419081,37.758271 ]
+    },
+    "properties": {
+    "FIELD1":1295,
+    "business_id":3621,
+    "business_name":"JIM'S RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.428477,37.797954 ]
+    },
+    "properties": {
+    "FIELD1":1298,
+    "business_id":63047,
+    "business_name":"Roam Artisan Burgers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.427637,37.798063 ]
+    },
+    "properties": {
+    "FIELD1":1304,
+    "business_id":3317,
+    "business_name":"Pane e Vino Trattoria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421905,37.764678 ]
+    },
+    "properties": {
+    "FIELD1":1307,
+    "business_id":1154,
+    "business_name":"SUNFLOWER RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.429504,37.797878 ]
+    },
+    "properties": {
+    "FIELD1":1309,
+    "business_id":2483,
+    "business_name":"CAFE UNION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.430283,37.786498 ]
+    },
+    "properties": {
+    "FIELD1":1311,
+    "business_id":1778,
+    "business_name":"Academy Bar & Kitchen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.431274,37.797648 ]
+    },
+    "properties": {
+    "FIELD1":1314,
+    "business_id":3343,
+    "business_name":"PERRYS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.417583,37.755479 ]
+    },
+    "properties": {
+    "FIELD1":1318,
+    "business_id":59574,
+    "business_name":"Pan Lido Salvadoreno"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.424466,37.768904 ]
+    },
+    "properties": {
+    "FIELD1":1320,
+    "business_id":6032,
+    "business_name":"FRANCIS OF ASSISI SENIOR MEALS PROG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433557,37.787778 ]
+    },
+    "properties": {
+    "FIELD1":1325,
+    "business_id":71287,
+    "business_name":"Glaze Teriyaki"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.431434,37.800468 ]
+    },
+    "properties": {
+    "FIELD1":1326,
+    "business_id":62775,
+    "business_name":"Lombard Shell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433667,37.788307 ]
+    },
+    "properties": {
+    "FIELD1":1327,
+    "business_id":3280,
+    "business_name":"HARRY'S BAR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433242,37.762638 ]
+    },
+    "properties": {
+    "FIELD1":1338,
+    "business_id":4474,
+    "business_name":"17th & Noe Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.403827,37.794554 ]
+    },
+    "properties": {
+    "FIELD1":1346,
+    "business_id":63971,
+    "business_name":"Munchboxx"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.427688,37.751664 ]
+    },
+    "properties": {
+    "FIELD1":1352,
+    "business_id":4702,
+    "business_name":"SHUFAT MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.435334,37.797138 ]
+    },
+    "properties": {
+    "FIELD1":1353,
+    "business_id":4716,
+    "business_name":"MICHAELIS WINE & SPIRITS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420786,37.753823 ]
+    },
+    "properties": {
+    "FIELD1":1356,
+    "business_id":3626,
+    "business_name":"Beretta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.406342,37.776948 ]
+    },
+    "properties": {
+    "FIELD1":1365,
+    "business_id":5870,
+    "business_name":"CARMICHAEL ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.400308,37.780295 ]
+    },
+    "properties": {
+    "FIELD1":1367,
+    "business_id":5891,
+    "business_name":"FILIPINO ED. CTR ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419894,37.786545 ]
+    },
+    "properties": {
+    "FIELD1":1382,
+    "business_id":320,
+    "business_name":"NAPOLI PIZZA RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.425467,37.801173 ]
+    },
+    "properties": {
+    "FIELD1":1391,
+    "business_id":65824,
+    "business_name":"Sugarhill Kitchen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.434864,37.800028 ]
+    },
+    "properties": {
+    "FIELD1":1398,
+    "business_id":63893,
+    "business_name":"Marina Sushi Bar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.436974,37.796927 ]
+    },
+    "properties": {
+    "FIELD1":1404,
+    "business_id":2739,
+    "business_name":"ROSE'S CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.403344,37.797378 ]
+    },
+    "properties": {
+    "FIELD1":1409,
+    "business_id":63918,
+    "business_name":"Cotogna"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421492,37.761743 ]
+    },
+    "properties": {
+    "FIELD1":1411,
+    "business_id":1296,
+    "business_name":"TAQUERIA EL BUEN SABOR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.435026,37.724489 ]
+    },
+    "properties": {
+    "FIELD1":1412,
+    "business_id":7216,
+    "business_name":"El Chico Produce Market #2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420986,37.755824 ]
+    },
+    "properties": {
+    "FIELD1":1413,
+    "business_id":1300,
+    "business_name":"WE BE SUSHI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.452076,37.712148 ]
+    },
+    "properties": {
+    "FIELD1":1415,
+    "business_id":7643,
+    "business_name":"PACIFIC SUPER MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.432322,37.764697 ]
+    },
+    "properties": {
+    "FIELD1":1422,
+    "business_id":1354,
+    "business_name":"SUSHI TIME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.431034,37.783253 ]
+    },
+    "properties": {
+    "FIELD1":1440,
+    "business_id":3055,
+    "business_name":"SAFEWAY STORES, INC. #995"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.434626,37.757743 ]
+    },
+    "properties": {
+    "FIELD1":1447,
+    "business_id":7211,
+    "business_name":"RELIANCE MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407896,37.794457 ]
+    },
+    "properties": {
+    "FIELD1":1449,
+    "business_id":64154,
+    "business_name":"Yummy Dim Sum & Fast Food, LLC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418535,37.752408 ]
+    },
+    "properties": {
+    "FIELD1":1457,
+    "business_id":2357,
+    "business_name":"CHINA EXPRESS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433783,37.789074 ]
+    },
+    "properties": {
+    "FIELD1":1472,
+    "business_id":18826,
+    "business_name":"Fresca Restaurant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.432537,37.797443 ]
+    },
+    "properties": {
+    "FIELD1":1476,
+    "business_id":2724,
+    "business_name":"HUNAN EMPIRE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.431883,37.797578 ]
+    },
+    "properties": {
+    "FIELD1":1481,
+    "business_id":63124,
+    "business_name":"Marengo on Union"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433476,37.787386 ]
+    },
+    "properties": {
+    "FIELD1":1485,
+    "business_id":59009,
+    "business_name":"Woodhouse Fish Co."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.431883,37.797578 ]
+    },
+    "properties": {
+    "FIELD1":1486,
+    "business_id":2555,
+    "business_name":"EXTREME PIZZA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.434529,37.751243 ]
+    },
+    "properties": {
+    "FIELD1":1492,
+    "business_id":1626,
+    "business_name":"LUPA TRATTORIA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420916,37.755124 ]
+    },
+    "properties": {
+    "FIELD1":1493,
+    "business_id":184,
+    "business_name":"RADIO HABANA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.478292,37.776599 ]
+    },
+    "properties": {
+    "FIELD1":1510,
+    "business_id":3165,
+    "business_name":"HAN IL KWAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.431039,37.791426 ]
+    },
+    "properties": {
+    "FIELD1":1520,
+    "business_id":5605,
+    "business_name":"CALIF PACIFIC MEDICAL CTR - CART"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.435859,37.724174 ]
+    },
+    "properties": {
+    "FIELD1":1522,
+    "business_id":15279,
+    "business_name":"Deli World"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421826,37.764553 ]
+    },
+    "properties": {
+    "FIELD1":1528,
+    "business_id":3661,
+    "business_name":"LA CUMBRE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.41916,37.752156 ]
+    },
+    "properties": {
+    "FIELD1":1551,
+    "business_id":5006,
+    "business_name":"LA MEJOR BAKERY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.402645,37.765427 ]
+    },
+    "properties": {
+    "FIELD1":1552,
+    "business_id":9155,
+    "business_name":"STARBUCKS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.430684,37.789844 ]
+    },
+    "properties": {
+    "FIELD1":1553,
+    "business_id":6904,
+    "business_name":"BUCHANAN FOOD MART"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.497655,37.775752 ]
+    },
+    "properties": {
+    "FIELD1":1561,
+    "business_id":68259,
+    "business_name":"Balboa Theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421586,37.762265 ]
+    },
+    "properties": {
+    "FIELD1":1568,
+    "business_id":71380,
+    "business_name":"Curry Up Now"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.399872,37.764987 ]
+    },
+    "properties": {
+    "FIELD1":1569,
+    "business_id":33851,
+    "business_name":"Thee Parkside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418264,37.750959 ]
+    },
+    "properties": {
+    "FIELD1":1575,
+    "business_id":7786,
+    "business_name":"DIANDA'S ITAL-AMER.PASTRY CO."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.386364,37.729455 ]
+    },
+    "properties": {
+    "FIELD1":1583,
+    "business_id":7636,
+    "business_name":"LEE'S FOOD MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407565,37.765507 ]
+    },
+    "properties": {
+    "FIELD1":1588,
+    "business_id":5156,
+    "business_name":"McDONALD'S"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409002,37.765708 ]
+    },
+    "properties": {
+    "FIELD1":1592,
+    "business_id":2743,
+    "business_name":"NOAH'S NEW YORK BAGELS #2147"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.458926,37.782383 ]
+    },
+    "properties": {
+    "FIELD1":1593,
+    "business_id":5830,
+    "business_name":"Theodore Roosevelt Middle School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409002,37.765708 ]
+    },
+    "properties": {
+    "FIELD1":1594,
+    "business_id":4478,
+    "business_name":"AFC Sushi @ Safeway #1490"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433637,37.788147 ]
+    },
+    "properties": {
+    "FIELD1":1608,
+    "business_id":2017,
+    "business_name":"THE GROVE FILLMORE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433977,37.775443 ]
+    },
+    "properties": {
+    "FIELD1":1619,
+    "business_id":5848,
+    "business_name":"Ida B Wells Continuation High School"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409497,37.785648 ]
+    },
+    "properties": {
+    "FIELD1":1621,
+    "business_id":62552,
+    "business_name":"Hotel Nikko SF - Banquet Prep/Service Room"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409497,37.785648 ]
+    },
+    "properties": {
+    "FIELD1":1627,
+    "business_id":62551,
+    "business_name":"Hotel Nikko-San Francisco - Harmony Room"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.48204,37.780144 ]
+    },
+    "properties": {
+    "FIELD1":1637,
+    "business_id":71373,
+    "business_name":"Golden River Restaurant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421357,37.785358 ]
+    },
+    "properties": {
+    "FIELD1":1638,
+    "business_id":2797,
+    "business_name":"MELS DRIVE-IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419355,37.761337 ]
+    },
+    "properties": {
+    "FIELD1":1651,
+    "business_id":63404,
+    "business_name":"Commonwealth"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.403974,37.769287 ]
+    },
+    "properties": {
+    "FIELD1":1658,
+    "business_id":1219,
+    "business_name":"PAZZO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.426995,37.746759 ]
+    },
+    "properties": {
+    "FIELD1":1659,
+    "business_id":2684,
+    "business_name":"ERIC'S RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.428803,37.743602 ]
+    },
+    "properties": {
+    "FIELD1":1667,
+    "business_id":2664,
+    "business_name":"Alice's Restaurant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.48629,37.721453 ]
+    },
+    "properties": {
+    "FIELD1":1674,
+    "business_id":67584,
+    "business_name":"Stow Lake Boathouse Company"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421844,37.787375 ]
+    },
+    "properties": {
+    "FIELD1":1675,
+    "business_id":3309,
+    "business_name":"ALBORZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.486199,37.779943 ]
+    },
+    "properties": {
+    "FIELD1":1676,
+    "business_id":5974,
+    "business_name":"RICHMOND SENIOR CENTER - 3RD FLOOR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.426464,37.786988 ]
+    },
+    "properties": {
+    "FIELD1":1679,
+    "business_id":2032,
+    "business_name":"QUEEN ANNE HOTEL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421598,37.773415 ]
+    },
+    "properties": {
+    "FIELD1":1697,
+    "business_id":3645,
+    "business_name":"ZUNI CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.429095,37.768776 ]
+    },
+    "properties": {
+    "FIELD1":1702,
+    "business_id":943,
+    "business_name":"EL CASTILLITO TAQUERIA INC."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407785,37.785094 ]
+    },
+    "properties": {
+    "FIELD1":1703,
+    "business_id":3769,
+    "business_name":"BURGER KING"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409705,37.788128 ]
+    },
+    "properties": {
+    "FIELD1":1704,
+    "business_id":62000,
+    "business_name":"Cafe Encore"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412123,37.787848 ]
+    },
+    "properties": {
+    "FIELD1":1705,
+    "business_id":68504,
+    "business_name":"The Fitzgerald Hotel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.399862,37.799005 ]
+    },
+    "properties": {
+    "FIELD1":1716,
+    "business_id":65724,
+    "business_name":"Le Meridien SF Main Kitchen/Employee Cafeteria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.410124,37.787168 ]
+    },
+    "properties": {
+    "FIELD1":1717,
+    "business_id":37651,
+    "business_name":"Jack In The Box #545"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.399862,37.799005 ]
+    },
+    "properties": {
+    "FIELD1":1718,
+    "business_id":65725,
+    "business_name":"Le Meridien SF Park Grill Restaurant & Bar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.42213,37.788609 ]
+    },
+    "properties": {
+    "FIELD1":1720,
+    "business_id":323,
+    "business_name":"WAYO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.392391,37.777398 ]
+    },
+    "properties": {
+    "FIELD1":1723,
+    "business_id":19041,
+    "business_name":"Nama Sushi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.46744,37.739413 ]
+    },
+    "properties": {
+    "FIELD1":1734,
+    "business_id":1700,
+    "business_name":"Raintree Cafe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.410237,37.787178 ]
+    },
+    "properties": {
+    "FIELD1":1737,
+    "business_id":69387,
+    "business_name":"Chabaa Thai Cuisine"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.434935,37.760954 ]
+    },
+    "properties": {
+    "FIELD1":1743,
+    "business_id":1352,
+    "business_name":"LA TORTILLA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423089,37.764814 ]
+    },
+    "properties": {
+    "FIELD1":1744,
+    "business_id":2638,
+    "business_name":"SF BAGEL CO. (KATZ BAGELS)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.40413,37.728933 ]
+    },
+    "properties": {
+    "FIELD1":1781,
+    "business_id":4804,
+    "business_name":"SUBWAY #31419"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.387032,37.772667 ]
+    },
+    "properties": {
+    "FIELD1":1784,
+    "business_id":774,
+    "business_name":"BAY VIEW BOAT CLUB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.386525,37.770518 ]
+    },
+    "properties": {
+    "FIELD1":1786,
+    "business_id":33160,
+    "business_name":"Mission Bay Cafe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.387222,37.77325 ]
+    },
+    "properties": {
+    "FIELD1":1796,
+    "business_id":773,
+    "business_name":"MARIPOSA HUNTERS POINT YACHT CLUB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.459368,37.747174 ]
+    },
+    "properties": {
+    "FIELD1":1827,
+    "business_id":71476,
+    "business_name":"Chou Chou Bakery Bistro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418953,37.760295 ]
+    },
+    "properties": {
+    "FIELD1":1829,
+    "business_id":5257,
+    "business_name":"LITTLE BAOBAB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.434836,37.759404 ]
+    },
+    "properties": {
+    "FIELD1":1830,
+    "business_id":3850,
+    "business_name":"Thai House Express On Castro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409497,37.785648 ]
+    },
+    "properties": {
+    "FIELD1":1831,
+    "business_id":62550,
+    "business_name":"ANZU Restaurant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.455421,37.712268 ]
+    },
+    "properties": {
+    "FIELD1":1846,
+    "business_id":69761,
+    "business_name":"Missionaries of Charity"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.402304,37.793907 ]
+    },
+    "properties": {
+    "FIELD1":1849,
+    "business_id":62701,
+    "business_name":"Wayfare Tavern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.425006,37.742129 ]
+    },
+    "properties": {
+    "FIELD1":1870,
+    "business_id":11610,
+    "business_name":"On Lok"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.449974,37.780768 ]
+    },
+    "properties": {
+    "FIELD1":1871,
+    "business_id":5992,
+    "business_name":"RUSSIAN AMERICAN COMMUNITY SVC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.429024,37.768127 ]
+    },
+    "properties": {
+    "FIELD1":1877,
+    "business_id":2759,
+    "business_name":"CASA MEXICANA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.41523,37.765262 ]
+    },
+    "properties": {
+    "FIELD1":1903,
+    "business_id":4907,
+    "business_name":"JIM GEORGIE'S DONUT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.435576,37.767194 ]
+    },
+    "properties": {
+    "FIELD1":1906,
+    "business_id":4479,
+    "business_name":"Courtney's Produce II"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.393089,37.778634 ]
+    },
+    "properties": {
+    "FIELD1":1907,
+    "business_id":4794,
+    "business_name":"VICTOR'S"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.434817,37.759613 ]
+    },
+    "properties": {
+    "FIELD1":1929,
+    "business_id":1294,
+    "business_name":"ANCHOR OYSTER BAR INC."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.429927,37.772163 ]
+    },
+    "properties": {
+    "FIELD1":1933,
+    "business_id":2538,
+    "business_name":"KATES KITCHEN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.413803,37.772008 ]
+    },
+    "properties": {
+    "FIELD1":1934,
+    "business_id":37090,
+    "business_name":"Basil Canteen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418414,37.751296 ]
+    },
+    "properties": {
+    "FIELD1":1937,
+    "business_id":2359,
+    "business_name":"LA TRAVIATA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.475639,37.728497 ]
+    },
+    "properties": {
+    "FIELD1":1940,
+    "business_id":2002,
+    "business_name":"PANDA EXPRESS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.47673,37.780383 ]
+    },
+    "properties": {
+    "FIELD1":1941,
+    "business_id":36911,
+    "business_name":"Royal Market & Bakery"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.402586,37.790053 ]
+    },
+    "properties": {
+    "FIELD1":1944,
+    "business_id":63493,
+    "business_name":"The Golden West"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.465512,37.764108 ]
+    },
+    "properties": {
+    "FIELD1":1946,
+    "business_id":3221,
+    "business_name":"PASQUALES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.399999,37.775664 ]
+    },
+    "properties": {
+    "FIELD1":1949,
+    "business_id":3070,
+    "business_name":"FLOWER MARKET CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415348,37.778343 ]
+    },
+    "properties": {
+    "FIELD1":1953,
+    "business_id":63150,
+    "business_name":"Local Diner"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421361,37.777026 ]
+    },
+    "properties": {
+    "FIELD1":1957,
+    "business_id":64940,
+    "business_name":"The Grove-Hayes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.50555,37.760413 ]
+    },
+    "properties": {
+    "FIELD1":1961,
+    "business_id":63992,
+    "business_name":"Thai Cottage Restaurant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.435135,37.761918 ]
+    },
+    "properties": {
+    "FIELD1":1971,
+    "business_id":3825,
+    "business_name":"COVE CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.426748,37.79826 ]
+    },
+    "properties": {
+    "FIELD1":1975,
+    "business_id":276,
+    "business_name":"CORSAGNA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423039,37.776889 ]
+    },
+    "properties": {
+    "FIELD1":1978,
+    "business_id":69110,
+    "business_name":"Chez Maman"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.450724,37.769303 ]
+    },
+    "properties": {
+    "FIELD1":1983,
+    "business_id":155,
+    "business_name":"CAFE COLE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420429,37.783845 ]
+    },
+    "properties": {
+    "FIELD1":1984,
+    "business_id":5227,
+    "business_name":"Larkin Street Youth Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409931,37.759488 ]
+    },
+    "properties": {
+    "FIELD1":1986,
+    "business_id":3784,
+    "business_name":"BLOWFISH SUSHI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420395,37.744726 ]
+    },
+    "properties": {
+    "FIELD1":1988,
+    "business_id":1337,
+    "business_name":"Sabor De San Miguel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.441183,37.716242 ]
+    },
+    "properties": {
+    "FIELD1":1992,
+    "business_id":1992,
+    "business_name":"GENEVA STEAK HOUSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.428627,37.797933 ]
+    },
+    "properties": {
+    "FIELD1":1996,
+    "business_id":63082,
+    "business_name":"The Brick Yard"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.390043,37.737021 ]
+    },
+    "properties": {
+    "FIELD1":2004,
+    "business_id":19373,
+    "business_name":"Las Isletas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.404457,37.739526 ]
+    },
+    "properties": {
+    "FIELD1":2006,
+    "business_id":70058,
+    "business_name":"Juice Shop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.417326,37.763803 ]
+    },
+    "properties": {
+    "FIELD1":2008,
+    "business_id":7489,
+    "business_name":"GAS & SHOP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.398704,37.783662 ]
+    },
+    "properties": {
+    "FIELD1":2011,
+    "business_id":61989,
+    "business_name":"Osha Thai Restaurant & Lounge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.477084,37.720851 ]
+    },
+    "properties": {
+    "FIELD1":2016,
+    "business_id":5071,
+    "business_name":"CAFE-ROSSO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.417919,37.765123 ]
+    },
+    "properties": {
+    "FIELD1":2021,
+    "business_id":2326,
+    "business_name":"IRMA'S PAMPANGA RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421334,37.760164 ]
+    },
+    "properties": {
+    "FIELD1":2023,
+    "business_id":2266,
+    "business_name":"ALI BABA'S CAVE RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.399114,37.730164 ]
+    },
+    "properties": {
+    "FIELD1":2024,
+    "business_id":7748,
+    "business_name":"FOODS CO. #351"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.451354,37.769458 ]
+    },
+    "properties": {
+    "FIELD1":2026,
+    "business_id":2397,
+    "business_name":"PLOY #2 THAI CUISINE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.408928,37.749603 ]
+    },
+    "properties": {
+    "FIELD1":2031,
+    "business_id":36589,
+    "business_name":"Catering With Style"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.502535,37.73017 ]
+    },
+    "properties": {
+    "FIELD1":2044,
+    "business_id":4860,
+    "business_name":"Play  Field Cafe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.502535,37.73017 ]
+    },
+    "properties": {
+    "FIELD1":2048,
+    "business_id":3607,
+    "business_name":"Station Cafe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418455,37.751687 ]
+    },
+    "properties": {
+    "FIELD1":2070,
+    "business_id":2358,
+    "business_name":"TAQUERIA SAN JOSE #1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.428473,37.762939 ]
+    },
+    "properties": {
+    "FIELD1":2102,
+    "business_id":1274,
+    "business_name":"MORNING DUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.426739,37.74385 ]
+    },
+    "properties": {
+    "FIELD1":2108,
+    "business_id":5180,
+    "business_name":"ST. PAULS SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.406761,37.774722 ]
+    },
+    "properties": {
+    "FIELD1":2109,
+    "business_id":35882,
+    "business_name":"Peet's Coffee and Tea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.432012,37.764947 ]
+    },
+    "properties": {
+    "FIELD1":2110,
+    "business_id":5000,
+    "business_name":"PEET'S COFFEE & TEA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.468805,37.763891 ]
+    },
+    "properties": {
+    "FIELD1":2115,
+    "business_id":67330,
+    "business_name":"San Tung Restaurant LLC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.451667,37.769363 ]
+    },
+    "properties": {
+    "FIELD1":2118,
+    "business_id":1159,
+    "business_name":"Zona Rosa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.408413,37.796583 ]
+    },
+    "properties": {
+    "FIELD1":2119,
+    "business_id":64354,
+    "business_name":"San Francisco Poultry, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.389559,37.737719 ]
+    },
+    "properties": {
+    "FIELD1":2124,
+    "business_id":62069,
+    "business_name":"Golden Eagle Deli & Grill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.437734,37.784626 ]
+    },
+    "properties": {
+    "FIELD1":2126,
+    "business_id":54,
+    "business_name":"RHODA GOLDMAN PLAZA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407368,37.795033 ]
+    },
+    "properties": {
+    "FIELD1":2128,
+    "business_id":63077,
+    "business_name":"Aroma Tea Shop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.402535,37.78678 ]
+    },
+    "properties": {
+    "FIELD1":2131,
+    "business_id":33467,
+    "business_name":"California Pizza Kitchen, Inc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412954,37.785861 ]
+    },
+    "properties": {
+    "FIELD1":2132,
+    "business_id":64938,
+    "business_name":"Xpress Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.404852,37.786476 ]
+    },
+    "properties": {
+    "FIELD1":2151,
+    "business_id":2842,
+    "business_name":"SEASONS RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409879,37.772473 ]
+    },
+    "properties": {
+    "FIELD1":2163,
+    "business_id":5219,
+    "business_name":"SALVATION ARMY GATEWAY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.391479,37.782334 ]
+    },
+    "properties": {
+    "FIELD1":2172,
+    "business_id":4512,
+    "business_name":"BRANNAN STREET CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.466344,37.763448 ]
+    },
+    "properties": {
+    "FIELD1":2185,
+    "business_id":7755,
+    "business_name":"ARIZMENDI BAKERY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.435145,37.762057 ]
+    },
+    "properties": {
+    "FIELD1":2189,
+    "business_id":902,
+    "business_name":"MARCELLO'S PIZZA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.396125,37.781607 ]
+    },
+    "properties": {
+    "FIELD1":2198,
+    "business_id":18462,
+    "business_name":"Jack's Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.410657,37.799639 ]
+    },
+    "properties": {
+    "FIELD1":2207,
+    "business_id":69383,
+    "business_name":"La Mediterranee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.39592,37.797473 ]
+    },
+    "properties": {
+    "FIELD1":2208,
+    "business_id":4108,
+    "business_name":"Hornblower Cruises & Events/SF Belle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.452425,37.744876 ]
+    },
+    "properties": {
+    "FIELD1":2215,
+    "business_id":68257,
+    "business_name":"AFC SUSHI at Mollie Stone's #10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.389694,37.735232 ]
+    },
+    "properties": {
+    "FIELD1":2216,
+    "business_id":6003,
+    "business_name":"JOSEPH LEE RECREATION CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409893,37.795534 ]
+    },
+    "properties": {
+    "FIELD1":2223,
+    "business_id":63049,
+    "business_name":"Noodle City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407671,37.766293 ]
+    },
+    "properties": {
+    "FIELD1":2235,
+    "business_id":1542,
+    "business_name":"I LUV TERIYAKI AND SUSHI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.464412,37.77714 ]
+    },
+    "properties": {
+    "FIELD1":2248,
+    "business_id":1191,
+    "business_name":"TEKKA JAPANESE RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.383559,37.73241 ]
+    },
+    "properties": {
+    "FIELD1":2267,
+    "business_id":6007,
+    "business_name":"BAYVIEE HUNTER Pt. ADULT DAY HE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.39377,37.795225 ]
+    },
+    "properties": {
+    "FIELD1":2270,
+    "business_id":61976,
+    "business_name":"DELICA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.431883,37.797578 ]
+    },
+    "properties": {
+    "FIELD1":2279,
+    "business_id":3345,
+    "business_name":"BAR NONE-SF, LLC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.428866,37.767183 ]
+    },
+    "properties": {
+    "FIELD1":2284,
+    "business_id":3477,
+    "business_name":"CHOW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.417416,37.764773 ]
+    },
+    "properties": {
+    "FIELD1":2289,
+    "business_id":7491,
+    "business_name":"AUTO CITY Food Mart"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.390293,37.736301 ]
+    },
+    "properties": {
+    "FIELD1":2292,
+    "business_id":70452,
+    "business_name":"Kennedy Market & Deli"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419792,37.768357 ]
+    },
+    "properties": {
+    "FIELD1":2296,
+    "business_id":7757,
+    "business_name":"CAKE GALLERY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409002,37.765708 ]
+    },
+    "properties": {
+    "FIELD1":2302,
+    "business_id":5019,
+    "business_name":"PEET'S COFFEE & TEA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.434755,37.762857 ]
+    },
+    "properties": {
+    "FIELD1":2314,
+    "business_id":6348,
+    "business_name":"Castro Street Chevron"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420995,37.755177 ]
+    },
+    "properties": {
+    "FIELD1":2333,
+    "business_id":4884,
+    "business_name":"LUCCA RAVIOLI CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.447533,37.769957 ]
+    },
+    "properties": {
+    "FIELD1":2336,
+    "business_id":64660,
+    "business_name":"Haight Street Market"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.388696,37.726932 ]
+    },
+    "properties": {
+    "FIELD1":2348,
+    "business_id":5170,
+    "business_name":"BAYVIEW HP MULTI-SERVICE DROP-IN CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.48591,37.758941 ]
+    },
+    "properties": {
+    "FIELD1":2352,
+    "business_id":33865,
+    "business_name":"Nabe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.452273,37.723638 ]
+    },
+    "properties": {
+    "FIELD1":2360,
+    "business_id":5194,
+    "business_name":"CULINARY ARTS & HOSPITALITY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.393992,37.792577 ]
+    },
+    "properties": {
+    "FIELD1":2373,
+    "business_id":1673,
+    "business_name":"RUBIN'S"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412494,37.802918 ]
+    },
+    "properties": {
+    "FIELD1":2377,
+    "business_id":6015,
+    "business_name":"Telegraph Hill Senior Meals Program"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.40498,37.79668 ]
+    },
+    "properties": {
+    "FIELD1":2388,
+    "business_id":62702,
+    "business_name":"Comstock Saloon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.502535,37.73017 ]
+    },
+    "properties": {
+    "FIELD1":2404,
+    "business_id":5307,
+    "business_name":"San Francisco ZOO WAREHOUSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407571,37.766759 ]
+    },
+    "properties": {
+    "FIELD1":2414,
+    "business_id":5212,
+    "business_name":"MARTIN DE PORRES HOUSE OF HOSP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419566,37.764384 ]
+    },
+    "properties": {
+    "FIELD1":2431,
+    "business_id":1075,
+    "business_name":"SANDWICH PLACE, THE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3848,37.739891 ]
+    },
+    "properties": {
+    "FIELD1":2449,
+    "business_id":5213,
+    "business_name":"MEALS ON WHEELS OF SF, INC."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.452666,37.744736 ]
+    },
+    "properties": {
+    "FIELD1":2456,
+    "business_id":1486,
+    "business_name":"STARBUCKS COFFEE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.404222,37.774677 ]
+    },
+    "properties": {
+    "FIELD1":2522,
+    "business_id":2737,
+    "business_name":"CAFFE' ROMA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.431918,37.785274 ]
+    },
+    "properties": {
+    "FIELD1":2538,
+    "business_id":645,
+    "business_name":"TAN-TAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.393371,37.711323 ]
+    },
+    "properties": {
+    "FIELD1":2540,
+    "business_id":1788,
+    "business_name":"EXECUTIVE CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.403323,37.780263 ]
+    },
+    "properties": {
+    "FIELD1":2550,
+    "business_id":1527,
+    "business_name":"CITY'S CHOICE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.465981,37.764088 ]
+    },
+    "properties": {
+    "FIELD1":2560,
+    "business_id":1265,
+    "business_name":"STARBUCKS COFFEE CO."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.400926,37.758134 ]
+    },
+    "properties": {
+    "FIELD1":2583,
+    "business_id":6021,
+    "business_name":"POTRERO HILL NEIGHBORHOOD House"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423824,37.797184 ]
+    },
+    "properties": {
+    "FIELD1":2596,
+    "business_id":3699,
+    "business_name":"MATTERHORN RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.396764,37.764627 ]
+    },
+    "properties": {
+    "FIELD1":2610,
+    "business_id":782,
+    "business_name":"MONTE CRISTO SOCIAL CLUB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.396135,37.765117 ]
+    },
+    "properties": {
+    "FIELD1":2618,
+    "business_id":4400,
+    "business_name":"BOTTOM OF THE HILL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.453479,37.744168 ]
+    },
+    "properties": {
+    "FIELD1":2632,
+    "business_id":3678,
+    "business_name":"ROUND TABLE PIZZA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.405766,37.742456 ]
+    },
+    "properties": {
+    "FIELD1":2639,
+    "business_id":1668,
+    "business_name":"SILVER CREST DONUT SHOP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.426377,37.786944 ]
+    },
+    "properties": {
+    "FIELD1":2693,
+    "business_id":6019,
+    "business_name":"KIMOCHI HOME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.397827,37.786529 ]
+    },
+    "properties": {
+    "FIELD1":2706,
+    "business_id":34749,
+    "business_name":"Chatz Coffee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.449976,37.766017 ]
+    },
+    "properties": {
+    "FIELD1":2714,
+    "business_id":4828,
+    "business_name":"SAY CHEESE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.48629,37.721453 ]
+    },
+    "properties": {
+    "FIELD1":2735,
+    "business_id":5533,
+    "business_name":"LEAPING LEMUR CART"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.428894,37.800788 ]
+    },
+    "properties": {
+    "FIELD1":2752,
+    "business_id":2061,
+    "business_name":"ATAMI SUSHI BAR & GRILL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.410594,37.764359 ]
+    },
+    "properties": {
+    "FIELD1":2814,
+    "business_id":5271,
+    "business_name":"McCALL ASSOCIATES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.397089,37.787764 ]
+    },
+    "properties": {
+    "FIELD1":2885,
+    "business_id":27801,
+    "business_name":"Hive Coffee Bar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.39319,37.794551 ]
+    },
+    "properties": {
+    "FIELD1":2920,
+    "business_id":64496,
+    "business_name":"Hornblower Cruises & Events/SF Spirit"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.414891,37.781792 ]
+    },
+    "properties": {
+    "FIELD1":2971,
+    "business_id":5185,
+    "business_name":"260 Golden Gate Family Residence"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.396139,37.778694 ]
+    },
+    "properties": {
+    "FIELD1":3021,
+    "business_id":1529,
+    "business_name":"STARBUCKS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.398901,37.715126 ]
+    },
+    "properties": {
+    "FIELD1":3028,
+    "business_id":194,
+    "business_name":"BAYSIDE COFFEE SHOP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.400466,37.788453 ]
+    },
+    "properties": {
+    "FIELD1":3042,
+    "business_id":2132,
+    "business_name":"B & M MEI SING RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.435968,37.796977 ]
+    },
+    "properties": {
+    "FIELD1":3048,
+    "business_id":5786,
+    "business_name":"UNION STREET INN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.45007,37.709737 ]
+    },
+    "properties": {
+    "FIELD1":3068,
+    "business_id":3256,
+    "business_name":"Connection, The"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.45133,37.731513 ]
+    },
+    "properties": {
+    "FIELD1":3109,
+    "business_id":994,
+    "business_name":"RAILROAD EXPRESSO CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415617,37.784564 ]
+    },
+    "properties": {
+    "FIELD1":3204,
+    "business_id":5179,
+    "business_name":"Tenderloin Children's Playground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412681,37.783988 ]
+    },
+    "properties": {
+    "FIELD1":3227,
+    "business_id":5214,
+    "business_name":"San Francisco Christian Academy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.413093,37.775025 ]
+    },
+    "properties": {
+    "FIELD1":3248,
+    "business_id":4335,
+    "business_name":"ASIA SF LLC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.438684,37.744076 ]
+    },
+    "properties": {
+    "FIELD1":3249,
+    "business_id":3819,
+    "business_name":"SAFEWAY #667"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415146,37.778497 ]
+    },
+    "properties": {
+    "FIELD1":3250,
+    "business_id":62308,
+    "business_name":"Sam's Diner"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.406932,37.793234 ]
+    },
+    "properties": {
+    "FIELD1":3256,
+    "business_id":64636,
+    "business_name":"Chinatown YMCA (Kitchen)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421638,37.773344 ]
+    },
+    "properties": {
+    "FIELD1":3259,
+    "business_id":65007,
+    "business_name":"Pause"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.467661,37.739147 ]
+    },
+    "properties": {
+    "FIELD1":3261,
+    "business_id":6748,
+    "business_name":"West Portal Nutrition Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419639,37.777122 ]
+    },
+    "properties": {
+    "FIELD1":3280,
+    "business_id":64484,
+    "business_name":"Twirl and Dip"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.466108,37.740456 ]
+    },
+    "properties": {
+    "FIELD1":3293,
+    "business_id":1963,
+    "business_name":"Spiazzo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.447294,37.783444 ]
+    },
+    "properties": {
+    "FIELD1":3301,
+    "business_id":7405,
+    "business_name":"TRADER JOE'S"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.411153,37.760373 ]
+    },
+    "properties": {
+    "FIELD1":3317,
+    "business_id":5200,
+    "business_name":"LATINO CUISINE CULINARY ACADEMY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423703,37.791178 ]
+    },
+    "properties": {
+    "FIELD1":3349,
+    "business_id":2020,
+    "business_name":"MONROE RESIDENCE CLUB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4241,37.772017 ]
+    },
+    "properties": {
+    "FIELD1":3381,
+    "business_id":5210,
+    "business_name":"FIRST BAPTIST CHURCH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433275,37.765728 ]
+    },
+    "properties": {
+    "FIELD1":3389,
+    "business_id":7210,
+    "business_name":"NOE VALLEY MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418296,37.761836 ]
+    },
+    "properties": {
+    "FIELD1":3395,
+    "business_id":2648,
+    "business_name":"BALOMPIE CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.435015,37.760698 ]
+    },
+    "properties": {
+    "FIELD1":3425,
+    "business_id":3331,
+    "business_name":"HARVEY'S"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420497,37.776223 ]
+    },
+    "properties": {
+    "FIELD1":3482,
+    "business_id":9710,
+    "business_name":"RICKSHAW STOP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.449664,37.765848 ]
+    },
+    "properties": {
+    "FIELD1":3483,
+    "business_id":1596,
+    "business_name":"BURGERMEISTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.450184,37.765778 ]
+    },
+    "properties": {
+    "FIELD1":3486,
+    "business_id":1347,
+    "business_name":"CREPES ON COLE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.449997,37.766097 ]
+    },
+    "properties": {
+    "FIELD1":3492,
+    "business_id":1261,
+    "business_name":"REVERIE COFFEE CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.404752,37.784964 ]
+    },
+    "properties": {
+    "FIELD1":3499,
+    "business_id":2731,
+    "business_name":"Main Kitchen-Mission Grille"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.456159,37.764027 ]
+    },
+    "properties": {
+    "FIELD1":3507,
+    "business_id":4841,
+    "business_name":"STARBUCKS COFFEE #9215"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.452974,37.766812 ]
+    },
+    "properties": {
+    "FIELD1":3509,
+    "business_id":1263,
+    "business_name":"LAVA JAVA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.467794,37.739154 ]
+    },
+    "properties": {
+    "FIELD1":3515,
+    "business_id":69259,
+    "business_name":"Goat Hill Pizza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.406677,37.794193 ]
+    },
+    "properties": {
+    "FIELD1":3523,
+    "business_id":62578,
+    "business_name":"New Chef Hung's Restaurant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.409002,37.765708 ]
+    },
+    "properties": {
+    "FIELD1":3532,
+    "business_id":3649,
+    "business_name":"SAFEWAY #1490"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.453227,37.767828 ]
+    },
+    "properties": {
+    "FIELD1":3582,
+    "business_id":1635,
+    "business_name":"KEZAR PUB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.453075,37.767286 ]
+    },
+    "properties": {
+    "FIELD1":3585,
+    "business_id":1262,
+    "business_name":"NORTH BEACH PIZZA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.449884,37.765174 ]
+    },
+    "properties": {
+    "FIELD1":3589,
+    "business_id":2620,
+    "business_name":"Bambino's Ristorante"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.430317,37.785457 ]
+    },
+    "properties": {
+    "FIELD1":3622,
+    "business_id":642,
+    "business_name":"ANDERSEN BAKERY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.454417,37.773657 ]
+    },
+    "properties": {
+    "FIELD1":3693,
+    "business_id":2971,
+    "business_name":"ST MARY'S HOSPITAL CAFETERIA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.442457,37.799095 ]
+    },
+    "properties": {
+    "FIELD1":3724,
+    "business_id":19357,
+    "business_name":"Original Buffalo Wings"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419191,37.783583 ]
+    },
+    "properties": {
+    "FIELD1":3761,
+    "business_id":5226,
+    "business_name":"Project Open Hand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.462692,37.762378 ]
+    },
+    "properties": {
+    "FIELD1":3770,
+    "business_id":591,
+    "business_name":"YOU SEE SUSHI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.437091,37.760485 ]
+    },
+    "properties": {
+    "FIELD1":3785,
+    "business_id":5192,
+    "business_name":"COMING HOME HOSPICE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.449887,37.765538 ]
+    },
+    "properties": {
+    "FIELD1":3795,
+    "business_id":2619,
+    "business_name":"KEZAR BAR & RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418985,37.779847 ]
+    },
+    "properties": {
+    "FIELD1":3845,
+    "business_id":62277,
+    "business_name":"Tacos San Buena"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421359,37.758832 ]
+    },
+    "properties": {
+    "FIELD1":3889,
+    "business_id":929,
+    "business_name":"Cafe Ethiopia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420035,37.76824 ]
+    },
+    "properties": {
+    "FIELD1":3900,
+    "business_id":70210,
+    "business_name":"Marcus Rios"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.466248,37.716156 ]
+    },
+    "properties": {
+    "FIELD1":3913,
+    "business_id":5805,
+    "business_name":"ORTEGA ELEMENTARY SCHOOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415954,37.784411 ]
+    },
+    "properties": {
+    "FIELD1":3914,
+    "business_id":18686,
+    "business_name":"Serve Well Market Inc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.393066,37.757364 ]
+    },
+    "properties": {
+    "FIELD1":3919,
+    "business_id":62067,
+    "business_name":"Caffe La Stazione"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.436286,37.751403 ]
+    },
+    "properties": {
+    "FIELD1":3939,
+    "business_id":3867,
+    "business_name":"Bacco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.477084,37.720851 ]
+    },
+    "properties": {
+    "FIELD1":3986,
+    "business_id":5607,
+    "business_name":"SFSU STATION CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.464961,37.764128 ]
+    },
+    "properties": {
+    "FIELD1":4105,
+    "business_id":68560,
+    "business_name":"Wow Naan-N-Curry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.442499,37.807878 ]
+    },
+    "properties": {
+    "FIELD1":4113,
+    "business_id":5208,
+    "business_name":"GOLDEN GATE YACHT CLUB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415121,37.749851 ]
+    },
+    "properties": {
+    "FIELD1":4186,
+    "business_id":5301,
+    "business_name":"Tacos San Buena"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.438474,37.778194 ]
+    },
+    "properties": {
+    "FIELD1":4215,
+    "business_id":10875,
+    "business_name":"Brendas Meat & Three"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.46733,37.739514 ]
+    },
+    "properties": {
+    "FIELD1":4233,
+    "business_id":2136,
+    "business_name":"STARBUCKS COFFEE CO."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.481229,37.780174 ]
+    },
+    "properties": {
+    "FIELD1":4245,
+    "business_id":5993,
+    "business_name":"JACKIE CHAN SENIOR CENTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423887,37.7714 ]
+    },
+    "properties": {
+    "FIELD1":4324,
+    "business_id":69653,
+    "business_name":"Izakaya Roku"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.428746,37.765933 ]
+    },
+    "properties": {
+    "FIELD1":4334,
+    "business_id":3846,
+    "business_name":"WARAKABUNE RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.436498,37.785623 ]
+    },
+    "properties": {
+    "FIELD1":4359,
+    "business_id":4559,
+    "business_name":"PACIFIC FOOD MART"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420652,37.755357 ]
+    },
+    "properties": {
+    "FIELD1":4364,
+    "business_id":2426,
+    "business_name":"BOOGALOOS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421898,37.764272 ]
+    },
+    "properties": {
+    "FIELD1":4368,
+    "business_id":3715,
+    "business_name":"WE BE SUSHI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.497701,37.775728 ]
+    },
+    "properties": {
+    "FIELD1":4421,
+    "business_id":18102,
+    "business_name":"Kim Son Restaurant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407348,37.790323 ]
+    },
+    "properties": {
+    "FIELD1":4434,
+    "business_id":59691,
+    "business_name":"Bouche"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.424782,37.769758 ]
+    },
+    "properties": {
+    "FIELD1":4470,
+    "business_id":5150,
+    "business_name":"Kentucky Fried Chicken"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415082,37.772764 ]
+    },
+    "properties": {
+    "FIELD1":4473,
+    "business_id":3393,
+    "business_name":"DON RAMON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.408631,37.773884 ]
+    },
+    "properties": {
+    "FIELD1":4624,
+    "business_id":4531,
+    "business_name":"AK SUBS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.435709,37.773285 ]
+    },
+    "properties": {
+    "FIELD1":4687,
+    "business_id":7111,
+    "business_name":"OAK FAIR MARKET"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.436913,37.760788 ]
+    },
+    "properties": {
+    "FIELD1":4720,
+    "business_id":3899,
+    "business_name":"FIREWOOD CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.422035,37.766994 ]
+    },
+    "properties": {
+    "FIELD1":4726,
+    "business_id":36840,
+    "business_name":"Four Barrel Coffee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.434945,37.759928 ]
+    },
+    "properties": {
+    "FIELD1":4752,
+    "business_id":71328,
+    "business_name":"Fable"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.431174,37.728659 ]
+    },
+    "properties": {
+    "FIELD1":4804,
+    "business_id":5196,
+    "business_name":"San Francisco Campus for Jewish Living"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.455034,37.775698 ]
+    },
+    "properties": {
+    "FIELD1":4828,
+    "business_id":1699,
+    "business_name":"TWILIGHT CAFE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.426446,37.776504 ]
+    },
+    "properties": {
+    "FIELD1":4915,
+    "business_id":5175,
+    "business_name":"NEIGHBORHOOD BAPTIST CHURCH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.431643,37.789225 ]
+    },
+    "properties": {
+    "FIELD1":4950,
+    "business_id":5168,
+    "business_name":"CONGREGATION SHERITH ISRAEL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.429095,37.768776 ]
+    },
+    "properties": {
+    "FIELD1":4984,
+    "business_id":2627,
+    "business_name":"BURGERMEISTER"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.42839,37.786771 ]
+    },
+    "properties": {
+    "FIELD1":5014,
+    "business_id":5171,
+    "business_name":"CHRIST UNITED PRESBYTERIAN CHU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.496324,37.782971 ]
+    },
+    "properties": {
+    "FIELD1":5061,
+    "business_id":1926,
+    "business_name":"LINCOLN PARK BAR AND GRILL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.437247,37.772458 ]
+    },
+    "properties": {
+    "FIELD1":5064,
+    "business_id":71168,
+    "business_name":"Mangrove Kitchen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.459709,37.781143 ]
+    },
+    "properties": {
+    "FIELD1":5108,
+    "business_id":61500,
+    "business_name":"Happy Lounge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433583,37.771738 ]
+    },
+    "properties": {
+    "FIELD1":5136,
+    "business_id":1636,
+    "business_name":"AXUM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.485087,37.779962 ]
+    },
+    "properties": {
+    "FIELD1":5177,
+    "business_id":3951,
+    "business_name":"KIRIN RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.478425,37.782124 ]
+    },
+    "properties": {
+    "FIELD1":5181,
+    "business_id":2305,
+    "business_name":"TIA MARGARITA INC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.449974,37.765644 ]
+    },
+    "properties": {
+    "FIELD1":5211,
+    "business_id":71356,
+    "business_name":"Padrecito"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.492793,37.781585 ]
+    },
+    "properties": {
+    "FIELD1":5321,
+    "business_id":66972,
+    "business_name":"Akiba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.451604,37.769428 ]
+    },
+    "properties": {
+    "FIELD1":5351,
+    "business_id":2325,
+    "business_name":"THE CITRUS CLUB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.434402,37.715985 ]
+    },
+    "properties": {
+    "FIELD1":5353,
+    "business_id":5942,
+    "business_name":"EPIPHANY ELEMENTARY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412515,37.745947 ]
+    },
+    "properties": {
+    "FIELD1":5355,
+    "business_id":64007,
+    "business_name":"Oakes Children's Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.510043,37.774248 ]
+    },
+    "properties": {
+    "FIELD1":5424,
+    "business_id":7488,
+    "business_name":"EUROPA EXPRESS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.416522,37.758817 ]
+    },
+    "properties": {
+    "FIELD1":5425,
+    "business_id":7493,
+    "business_name":"MR. PICKLE'S SANDWICH SHOP"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433121,37.785717 ]
+    },
+    "properties": {
+    "FIELD1":5485,
+    "business_id":4692,
+    "business_name":"FRIENDS LIQUOR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.463683,37.764188 ]
+    },
+    "properties": {
+    "FIELD1":5493,
+    "business_id":71657,
+    "business_name":"Bussaba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.464391,37.764148 ]
+    },
+    "properties": {
+    "FIELD1":5499,
+    "business_id":251,
+    "business_name":"THE BEANERY INC."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.475282,37.713935 ]
+    },
+    "properties": {
+    "FIELD1":5519,
+    "business_id":5948,
+    "business_name":"THE BRANDEIS SCHOOL OF SAN FRANCISCO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.468809,37.763913 ]
+    },
+    "properties": {
+    "FIELD1":5528,
+    "business_id":1931,
+    "business_name":"YUMMY YUMMY VIETNAMESE RESTAURANT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418988,37.783053 ]
+    },
+    "properties": {
+    "FIELD1":5591,
+    "business_id":2085,
+    "business_name":"KENTUCKY FRIED CHICKEN #249"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421234,37.764897 ]
+    },
+    "properties": {
+    "FIELD1":5727,
+    "business_id":3651,
+    "business_name":"PANCHO VILLA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.403787,37.791458 ]
+    },
+    "properties": {
+    "FIELD1":5761,
+    "business_id":68442,
+    "business_name":"Sauce Belden"
+    }
+  }
+]
+}
