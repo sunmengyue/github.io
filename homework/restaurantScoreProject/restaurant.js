@@ -62,6 +62,13 @@ function ready(error, dataArray) {
     {"name": "THAT'S IT MARKET", "coords": [  -122.431629,37.751413 ]},
     {"name": "STARBUCKS COFFEE", "coords": [ -122.422722,37.744122 ]},
 ]
+
+// Append Div for tooltip to SVG
+    var div = d3.select("body")
+		    .append("div")   
+    		.attr("class", "tooltip")               
+            .style("opacity", 0);
+
     var restaurants = svg.selectAll("circle")
         .data(points);
         restaurants.enter().append("circle")
@@ -69,7 +76,24 @@ function ready(error, dataArray) {
         return "translate(" + projection(d.coords) + ")";
     })
         .attr("r", 5)
-        .attr("fill", "cornflowerblue");
+        .attr("fill", "cornflowerblue")
+        .on("mouseover", function(d) {      
+            div.transition()        
+                 .duration(200)      
+               .style("opacity", .9);      
+               div.text(d.name)
+               .style("left", (d3.event.pageX) + "px")     
+               .style("top", (d3.event.pageY - 28) + "px");    
+        })   
+        .on("mouseout", function(d) {       
+            div.transition()        
+               .duration(500)      
+               .style("opacity", 0);   
+        });
+    
+ 
+/* Create tool tips on dots */
+
 
 }
 
