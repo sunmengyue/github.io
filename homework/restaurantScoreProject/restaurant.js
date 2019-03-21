@@ -9,6 +9,7 @@ var svg = d3.select("#map")
 
 /* Read in data */
 d3.queue()
+.defer(d3.json, "sf.geojson")
 .defer(d3.csv, "sf.csv")
 .defer(d3.json, "sf.json")
 .awaitAll(ready);
@@ -16,7 +17,7 @@ d3.queue()
 function ready(error, dataArray) {
 
     //topojson transform
-    var neighborhoods = topojson.feature(dataArray[1], dataArray[1].objects.SFFind_Neighborhoods);
+    var neighborhoods = topojson.feature(dataArray[2], dataArray[2].objects.SFFind_Neighborhoods);
 
     var projection = d3.geoAlbers()
     .fitSize([width, height], neighborhoods);
