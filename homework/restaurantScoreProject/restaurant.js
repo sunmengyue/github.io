@@ -10,7 +10,7 @@ var svg = d3.select("#map")
 /* Read in data */
 d3.queue()
 .defer(d3.json, "sf.geojson")
-.defer(d3.csv, "sf.csv")
+.defer(d3.csv, "SF.csv")
 .defer(d3.json, "sf.json")
 .awaitAll(ready);
 
