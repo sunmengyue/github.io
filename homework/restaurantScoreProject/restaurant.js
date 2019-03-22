@@ -9,7 +9,6 @@ var svg = d3.select("#map")
 
 /* Read in data */
 d3.queue()
-.defer(d3.json, "sf.geojson")
 .defer(d3.csv, "restaurant.csv")
 .defer(d3.json, "sf.json")
 .awaitAll(ready);
@@ -17,7 +16,7 @@ d3.queue()
 function ready(error, dataArray) {
     console.log(dataArray[1]);
     //topojson transform
-    var neighborhoods = topojson.feature(dataArray[2], dataArray[2].objects.SFFind_Neighborhoods);
+    var neighborhoods = topojson.feature(dataArray[1], dataArray[1].objects.SFFind_Neighborhoods);
 
     var projection = d3.geoAlbers()
     .fitSize([width, height], neighborhoods);
@@ -41,19 +40,7 @@ function ready(error, dataArray) {
     
     /* Add restaurants
     get x/y from the lat/long projection
-    */
-
-// svg.selectAll(".restaurant-circle")
-//     .data(dataArray[0])	        
-//     .enter().append("circle")	        
-//     .attr("r", 2)	        
-//     .attr("cx", function(d){	        
-//         var coords = projection([d.business_latitude, d.business_longitude]);	            
-//         return coords[0];	            
-//     }) 	    
-//     .attr("cx", function(d){	        
-//         var coords = projection([d.business_latitude, d.business_longitude]);	            
-//         return coords[1];	            
+    */	            
 
 // Append Div for tooltip to SVG
     var div = d3.select("body")
@@ -61,22 +48,31 @@ function ready(error, dataArray) {
     		.attr("class", "tooltip")               
             .style("opacity", 0);
 
-//Create dots and attach tool tips
+//Create nest by business name
+console.log(dataArray[0]);
 
+var businessByName = d3.nest()
+  .key(function(d) { return d.business_id; })
+  .entries(dataArray[0]);
+
+  console.log(businessByName);
+
+
+//Create dots and attach tool tips
     var restaurants = svg.selectAll("circle")
-        .data(dataArray[1]);
+        .data(businessByName);
         restaurants.enter().append("circle")
         .attr("transform", function(d) {
-        return "translate(" + projection([ d.business_longitude, d.business_latitude]) + ")";
+        return "translate(" + projection([d.values[0].business_longitude, d.values[0].business_latitude]) + ")";
     })
-        .attr("r", 5)
+        .attr("r", 3)
         .attr("fill", "cornflowerblue")
         .style("opacity", .4)
         .on("mouseover", function(d) {      
             div.transition()        
                  .duration(200)      
                .style("opacity", .9);      
-               div.text(d.business_name)
+               div.text(d.values[0].business_name)
                .style("left", (d3.event.pageX) + "px")     
                .style("top", (d3.event.pageY - 28) + "px");    
         })   
