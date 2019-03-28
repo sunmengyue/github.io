@@ -14,8 +14,14 @@ d3.queue()
 .awaitAll(ready);
 
 function ready(error, dataArray) {
-    console.log( dataArray[1]);
+    //Transform string to number
+    dataArray[0].forEach(function(d){
+        d.riskCatScore = parseFloat(d.riskCatScore);
+    })
+
     //topojson transform
+    console.log( dataArray[1]);
+
     var neighborhoods = topojson.feature(dataArray[1], dataArray[1].objects.SFFind_Neighborhoods);
 
     var projection = d3.geoAlbers()
@@ -66,7 +72,7 @@ var colorScale = d3.scaleLinear()
     })
         .attr("r", 5)
         .attr("fill", function(d){
-            var avg = d3.mean(d.values[0].riskCatScore);
+            var avg = d3.mean([d.values[0].riskCatScore]);   
             return colorScale(avg);
         })
         .style("opacity", .6)
