@@ -55,7 +55,7 @@ function ready(error, dataArray) {
 //Create linear scale for dot color
 var colorScale = d3.scaleLinear()
     .domain([1, 3])
-    .range(['green',  'red']);
+    .range(['#3399FF',  '#FF3333']);
 
 //Create dots, attach tool tips, and assign linear scale 
     var restaurants = svg.selectAll("circle")
