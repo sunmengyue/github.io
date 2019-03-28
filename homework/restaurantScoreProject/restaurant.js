@@ -9,12 +9,12 @@ var svg = d3.select("#map")
 
 /* Read in data */
 d3.queue()
-.defer(d3.csv, "restaurant.csv")
+.defer(d3.csv, "sfRestaurant.csv")
 .defer(d3.json, "sf.json")
 .awaitAll(ready);
 
 function ready(error, dataArray) {
-    console.log(dataArray[1]);
+    console.log( dataArray[1]);
     //topojson transform
     var neighborhoods = topojson.feature(dataArray[1], dataArray[1].objects.SFFind_Neighborhoods);
 
@@ -37,37 +37,39 @@ function ready(error, dataArray) {
         .on("mouseout", function(d) {
             d3.select(this).classed('selected', false)
         })
-    
-    /* Add restaurants
-    get x/y from the lat/long projection
-    */	            
+    	            
 
 // Append Div for tooltip to SVG
     var div = d3.select("body")
 		    .append("div")   
     		.attr("class", "tooltip")               
             .style("opacity", 0);
+  
 
-//Create nest by business name
-console.log(dataArray[0]);
+//Create nest by business name 
+    var businessByName = d3.nest()
+        .key(function(d){return d.business_id})
+        .entries(dataArray[0]); 
+    console.log(businessByName);
 
-var businessByName = d3.nest()
-  .key(function(d) { return d.business_id; })
-  .entries(dataArray[0]);
+//Create linear scale for dot color
+var colorScale = d3.scaleLinear()
+    .domain([1, 3])
+    .range(['green',  'red']);
 
-  console.log(businessByName);
-
-
-//Create dots and attach tool tips
+//Create dots, attach tool tips, and assign linear scale 
     var restaurants = svg.selectAll("circle")
         .data(businessByName);
         restaurants.enter().append("circle")
         .attr("transform", function(d) {
         return "translate(" + projection([d.values[0].business_longitude, d.values[0].business_latitude]) + ")";
     })
-        .attr("r", 3)
-        .attr("fill", "cornflowerblue")
-        .style("opacity", .4)
+        .attr("r", 5)
+        .attr("fill", function(d){
+            var avg = d3.mean(d.values[0].riskCatScore);
+            return colorScale(avg);
+        })
+        .style("opacity", .6)
         .on("mouseover", function(d) {      
             div.transition()        
                  .duration(200)      
