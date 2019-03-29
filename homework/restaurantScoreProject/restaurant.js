@@ -80,7 +80,7 @@ var colorScale = d3.scaleLinear()
             div.transition()        
                  .duration(200)      
                .style("opacity", .9);      
-               div.text(d.values[0].business_name)
+               div.text(d.values[0].business_name + ': ' + d.values[0].risk_category + ' (' + d.values[0].inspection_score + ')')
                .style("left", (d3.event.pageX) + "px")     
                .style("top", (d3.event.pageY - 28) + "px");    
         })   
