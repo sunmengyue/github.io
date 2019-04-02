@@ -97,25 +97,19 @@ function ready(error, dataArray) {
         });
 
     /*Create a zoom in interaction*/
-    var zoomSettings = {
-        duration: 750,
-        ease: d3.easeCubicOut,
-        zoomLevel: 14
-    }
-
     function clicked(d) {
-        var x, y, k;
+        var x, y, zoomLevel;
       
         if (d && centered !== d) {
           var centroid = path.centroid(d);
           x = centroid[0];
           y = centroid[1];
-          k = 5;
+          zoomLevel = 4;
           centered = d;
         } else {
           x = width / 2;
           y = height / 2;
-          k = 1;
+          zoomLevel = 1;
           centered = null;
         }
       
@@ -124,8 +118,8 @@ function ready(error, dataArray) {
       
         svg.transition()
             .duration(750)
-            .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")scale(" + k + ")translate(" + -x + "," + -y + ")")
-            .style("stroke-width", 1.5 / k + "px");
+            .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")scale(" + zoomLevel + ")translate(" + -x + "," + -y + ")")
+            .style("stroke-width", 1.5 / zoomLevel + "px");
       }
 
 }
