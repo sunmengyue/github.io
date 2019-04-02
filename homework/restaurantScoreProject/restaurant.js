@@ -72,7 +72,7 @@ function ready(error, dataArray) {
         .attr("transform", function(d) {
         return "translate(" + projection([d.values[0].business_longitude, d.values[0].business_latitude]) + ")";
         })
-        .attr("r", 5)
+        .attr("r", 3)
         .attr("fill", function(d){
             var avg = d3.mean(d.values, function(dataPoint) {
                 return dataPoint.riskCatScore;
@@ -100,7 +100,7 @@ function ready(error, dataArray) {
     var zoomSettings = {
         duration: 750,
         ease: d3.easeCubicOut,
-        zoomLevel: 5
+        zoomLevel: 14
     }
 
     function clicked(d) {
