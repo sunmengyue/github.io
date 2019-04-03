@@ -32,7 +32,6 @@ function ready(error, dataArray) {
     .projection(projection);
 
     /* Create the neighborhood */
-    var g = svg.append("g");
     svg.selectAll(".neighborhood") 
         .data(neighborhoods.features)
         .enter().append("path")
@@ -50,10 +49,8 @@ function ready(error, dataArray) {
     /*Append Div for tooltip to SVG*/
     var div = d3.select("body")
 		    .append("div")   
-    		.attr("class", "tooltip")               
-            .style("opacity", 0);
-  
-
+    		.attr("class", "tooltip");               
+           
     /*Create nest by business name*/    
     var businessByName = d3.nest()
         .key(function(d){return d.business_id})
@@ -86,7 +83,12 @@ function ready(error, dataArray) {
                .style("opacity", .9);      
                div.text(d.values[0].business_name)
                    // return "<h2>" + d.values[i].business_name + "<br>"
-               
+               .html("<h2>" + "<center>" + "<i>" + d.values[0].business_name + "</i>" + "</center>" + "</h2>" + 
+                    "<h3>" + "Risk Level: " + d.values[0].risk_category + "</h3>" +
+                    "<h4>" + "Address: " + d.values[0].business_address  + ", " +
+                    "CA" + d.values[0].business_postal_code  + 
+                    "<h4>" + "Business Phone Number: " + d.values[0].business_phone_number + "</h4>" +
+                    "<h4>" + "Violation Description: " + d.values[0].violation_description + "</h4>" )
                .style("left", (d3.event.pageX) + "px")     
                .style("top", (d3.event.pageY - 28) + "px");    
         })   

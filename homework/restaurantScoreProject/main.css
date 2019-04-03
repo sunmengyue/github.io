@@ -35,10 +35,9 @@ svg {
 }
 
 div.tooltip {   
-    position: absolute;           
-   text-align: center;           
-   width: 110px;                  
-   height: 65px;                 
+   position: absolute;                      
+   width: 210px;                  
+   height: 220px;                 
    padding: 2px;             
    font: 12px sans-serif;        
    background: white;   
