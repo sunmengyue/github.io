@@ -10,13 +10,17 @@ var svg = d3.select("#map")
 
 /* Read in data */
 d3.queue()
-.defer(d3.csv, "sfRestaurant.csv")
+.defer(d3.csv, "SFsRestaurant.csv")
 .defer(d3.json, "sf.json")
 .awaitAll(ready);
 
 function ready(error, dataArray) {
-    //Transform string to number
-    dataArray[0].forEach(function(d){
+    //Transform string to numberand delete missing number
+    console.log(dataArray[0]);
+    var filteredData = dataArray[0].filter(function(d){
+        return d.riskCatScore !== "NA" && d.business_longitude !== "NA";
+    });
+    filteredData.forEach(function(d){
         d.riskCatScore = parseFloat(d.riskCatScore);
     })
 
@@ -54,7 +58,7 @@ function ready(error, dataArray) {
     /*Create nest by business name*/    
     var businessByName = d3.nest()
         .key(function(d){return d.business_id})
-        .entries(dataArray[0]); 
+        .entries(filteredData); 
     console.log(businessByName);
 
     /*Create linear scale for dot color*/
@@ -67,9 +71,9 @@ function ready(error, dataArray) {
         .data(businessByName);
         restaurants.enter().append("circle")
         .attr("transform", function(d) {
-        return "translate(" + projection([d.values[0].business_longitude, d.values[0].business_latitude]) + ")";
+            return "translate(" + projection([d.values[0].business_longitude, d.values[0].business_latitude]) + ")";
         })
-        .attr("r", 3)
+        .attr("r", 2)
         .attr("fill", function(d){
             var avg = d3.mean(d.values, function(dataPoint) {
                 return dataPoint.riskCatScore;
@@ -80,14 +84,15 @@ function ready(error, dataArray) {
         .on("mouseover", function(d) {      
             div.transition()        
                  .duration(200)      
-               .style("opacity", .9);      
-               div.text(d.values[0].business_name)
-                   // return "<h2>" + d.values[i].business_name + "<br>"
+               .style("opacity", .9);   
+               
+              
+               div.text(d.values[0].business_name) // pading the tool tip
                .html("<h2>" + "<center>" + "<i>" + d.values[0].business_name + "</i>" + "</center>" + "</h2>" + 
                     "<h3>" + "Risk Level: " + d.values[0].risk_category + "</h3>" +
                     "<h4>" + "Address: " + d.values[0].business_address  + ", " +
                     "CA" + d.values[0].business_postal_code  + 
-                    "<h4>" + "Business Phone Number: " + d.values[0].business_phone_number + "</h4>" +
+                    // "<h4>" + "Business Phone Number: " + d.values[0].business_phone_number + "</h4>" +
                     "<h4>" + "Violation Description: " + d.values[0].violation_description + "</h4>" )
                .style("left", (d3.event.pageX) + "px")     
                .style("top", (d3.event.pageY - 28) + "px");    

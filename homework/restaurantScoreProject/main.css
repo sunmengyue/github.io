@@ -25,13 +25,13 @@ svg {
 } 
 
 .neighborhood {
-    fill: #cccccc;
-    stroke: #333333;
+    fill: #E0E0E0;
+    stroke: #ffffff;
     stroke-width: 0.5;
 }
 
 .selected {
-    fill: yellow;
+    fill: #C0C0C0;
 }
 
 div.tooltip {   
