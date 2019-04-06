@@ -73,7 +73,7 @@ function ready(error, dataArray) {
         .attr("transform", function(d) {
             return "translate(" + projection([d.values[0].business_longitude, d.values[0].business_latitude]) + ")";
         })
-        .attr("r", 4)
+        .attr("r", 3)
         .attr("fill", function(d){
             var avg = d3.mean(d.values, function(dataPoint) {
                 return dataPoint.riskCatScore;
@@ -137,7 +137,8 @@ function ready(error, dataArray) {
             .style("stroke-width", 1.5 / zoomLevel + "px");
       }
 
-        // restaurants.transition()
+        // Experiment code
+        //restaurants.transition()
         // .duration(750)
         // .attr("transform", "translate(" + r / 2 + "," + r / 2 + ")")
            
