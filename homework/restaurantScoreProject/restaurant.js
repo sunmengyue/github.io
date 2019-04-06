@@ -68,25 +68,24 @@ function ready(error, dataArray) {
 
     /*Create dots, attach tool tips, and assign linear scale*/
     var restaurants = svg.selectAll("circle")
-        .data(businessByName);
-        restaurants.enter().append("circle")
+        .data(businessByName)
+        .enter().append("circle")
         .attr("transform", function(d) {
             return "translate(" + projection([d.values[0].business_longitude, d.values[0].business_latitude]) + ")";
         })
-        .attr("r", 2)
+        .attr("r", 4)
         .attr("fill", function(d){
             var avg = d3.mean(d.values, function(dataPoint) {
                 return dataPoint.riskCatScore;
             });   
             return colorScale(avg);
         })
-        .style("opacity", .6)
+        .style("opacity", .4)
         .on("mouseover", function(d) {      
             div.transition()        
-                 .duration(200)      
-               .style("opacity", .9);   
-               
-              
+                .duration(200)      
+            .style("opacity", .9);   
+        
                div.text(d.values[0].business_name) // pading the tool tip
                .html("<h2>" + "<center>" + "<i>" + d.values[0].business_name + "</i>" + "</center>" + "</h2>" + 
                     "<h3>" + "Risk Level: " + d.values[0].risk_category + "</h3>" +
@@ -105,21 +104,30 @@ function ready(error, dataArray) {
 
     /*Create a zoom in interaction*/
     function clicked(d) {
-        var x, y, zoomLevel;
-      
+        var x, y, zoomLevel, r;
+        
         if (d && centered !== d) {
           var centroid = path.centroid(d);
           x = centroid[0];
           y = centroid[1];
-          zoomLevel = 4;
+          zoomLevel = 5;
           centered = d;
+          r = restaurants.attr("r", 1)
+                         .transition()
+                         .duration(3000);                
+                         
         } else {
-          x = width / 2;
+          x = width / 2;                      
           y = height / 2;
           zoomLevel = 1;
           centered = null;
+          r = restaurants.attr("r", 4)
+                         .transition()
+                         .duration(3000);
+          
         }
       
+        //Selected neighbouthood will be centered
         svg.selectAll("path")
             .classed("selected", centered && function(d) { return d === centered; });
       
@@ -128,6 +136,12 @@ function ready(error, dataArray) {
             .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")scale(" + zoomLevel + ")translate(" + -x + "," + -y + ")")
             .style("stroke-width", 1.5 / zoomLevel + "px");
       }
+
+        // restaurants.transition()
+        // .duration(750)
+        // .attr("transform", "translate(" + r / 2 + "," + r / 2 + ")")
+           
+      
 
 }
 
