@@ -65,6 +65,37 @@ function ready(error, dataArray) {
     var colorScale = d3.scaleLinear()
         .domain([1, 3])
         .range(['#3399FF',  '#FF3333']);
+    /*Create a legend */
+    var legend = d3.select("#legend")
+    .append("g");
+    //Append a linearGradient element to the defs and give it a unique id
+    var linearGradient = legend.append("linearGradient")
+    .attr("id", "linear-gradient"); 
+
+    //Define the direction of the gradient: Horizontal
+    linearGradient
+    .attr("x1", "0%")
+    .attr("y1", "0%")
+    .attr("x2", "100%")
+    .attr("y2", "0%");
+
+    //Set the color for the start (0%)
+    linearGradient.selectAll("stop")
+    .data(colorScale.range())
+    .enter().append("stop")
+    .attr("offset", function(d,i) { return i/(colorScale.range().length-1); })
+    .attr("stop-color", function(d) { return d; });
+
+    legend.append("rect")
+    .attr("width", 170)
+    .attr("height", 20)
+    .style("fill", "url(#linear-gradient)");
+
+    legend.append("text")
+	.attr("class", "legendTitle")
+	.attr("x", 0)
+	.attr("y", -2)
+	.text("Risk Levels of Restaurants");
 
     /*Create dots, attach tool tips, and assign linear scale*/
     var restaurants = svg.selectAll("circle")
@@ -84,11 +115,20 @@ function ready(error, dataArray) {
         .on("mouseover", function(d) {      
             div.transition()        
                 .duration(200)      
-            .style("opacity", .9);   
-        
-               div.text(d.values[0].business_name) // pading the tool tip
+            .style("opacity", .9);
+
+        /*Add a function to transfer risk score to risk */
+            function calcRisk (d) {
+                var avg = d3.mean(d.values, function(dataPoint) {
+                    return dataPoint.riskCatScore});
+                if (1 <= avg && avg < 1.5) {return "Low Risk"; }  
+                else if (1.5 <= avg && avg < 2) {return "Moderate Risk";}
+                else {return "High Risk";}
+            }
+               div.text(d.values[0].business_name) 
                .html("<h2>" + "<center>" + "<i>" + d.values[0].business_name + "</i>" + "</center>" + "</h2>" + 
-                    "<h3>" + "Risk Level: " + d.values[0].risk_category + "</h3>" +
+                    "<h3>" + "Average Risk Level: " + calcRisk(d)
+                        + "</h3>" +
                     "<h4>" + "Address: " + d.values[0].business_address  + ", " +
                     "CA" + d.values[0].business_postal_code  + 
                     // "<h4>" + "Business Phone Number: " + d.values[0].business_phone_number + "</h4>" +
@@ -145,7 +185,4 @@ function ready(error, dataArray) {
       
 
 }
-
-
-
 
