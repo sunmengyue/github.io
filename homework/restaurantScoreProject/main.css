@@ -4,7 +4,7 @@
 
 .header img {
     float: right;
-    width: 250px;
+    width: 260px;
     height: 80px;
   }
 
@@ -36,8 +36,7 @@ svg {
 
 div.tooltip {   
    position: absolute;                      
-   width: 210px;                  
-   height: 220px;                 
+   width: 210px;                           
    padding: 2px;             
    font: 12px sans-serif;        
    background: white;   

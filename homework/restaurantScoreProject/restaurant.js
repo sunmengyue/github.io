@@ -65,38 +65,6 @@ function ready(error, dataArray) {
     var colorScale = d3.scaleLinear()
         .domain([1, 3])
         .range(['#3399FF',  '#FF3333']);
-    /*Create a legend */
-    var legend = d3.select("#legend")
-    .append("g");
-    //Append a linearGradient element to the defs and give it a unique id
-    var linearGradient = legend.append("linearGradient")
-    .attr("id", "linear-gradient"); 
-
-    //Define the direction of the gradient: Horizontal
-    linearGradient
-    .attr("x1", "0%")
-    .attr("y1", "0%")
-    .attr("x2", "100%")
-    .attr("y2", "0%");
-
-    //Set the color for the start (0%)
-    // linearGradient.selectAll("stop")
-    // .data(colorScale.range())
-    // .enter().append("stop")
-    // .attr("offset", function(d,i) { return i/(colorScale.range().length-1); })
-    // .attr("stop-color", function(d) { return d; });
-
-    // legend.append("rect")
-    // .attr("width", 200)
-    // .attr("height", 20)
-    // .style("fill", "url(#linear-gradient)")
-    // .attr("align","center");
-
-    // legend.append("text")
-	// .attr("class", "legendTitle")
-	// .attr("x", 0)
-	// .attr("y", -2)
-	// .text("Risk Levels of Restaurants");
 
     /*Create dots, attach tool tips, and assign linear scale*/
     var restaurants = svg.selectAll("circle")
@@ -122,18 +90,17 @@ function ready(error, dataArray) {
             function calcRisk (d) {
                 var avg = d3.mean(d.values, function(dataPoint) {
                     return dataPoint.riskCatScore});
-                if (1 <= avg && avg < 1.5) {return "Low"; }  
-                else if (1.5 <= avg && avg < 2) {return "Moderate";}
-                else {return "High";}
+                if (1 <= avg && avg < 1.5) {return "Low" + "(" + avg + ")"; }  
+                else if (1.5 <= avg && avg < 2) {return "Moderate" + "(" + avg + ")";}
+                else {return "High" + "(" + avg + ")";}
             }
-               div.text(d.values[0].business_name) 
-               .html("<h2>" + "<center>" + "<i>" + d.values[0].business_name + "</i>" + "</center>" + "</h2>" + 
-                    "<h3>" + "Average Risk: " + calcRisk(d)
+               div.html("<h2 style = 'padding: 5px'>" + "<center>" + "<i>" + d.values[0].business_name + "</i>" + "</center>" + "</h2>" + 
+                    "<h3 style = 'padding: 5px'>" + "Average Risk: " + calcRisk(d) 
                         + "</h3>" +
-                    "<h4>" + "Address: " + d.values[0].business_address  + ", " +
+                    "<h4 style = 'padding: 5px'>" + "Address: " + d.values[0].business_address  + ", " +
                     "CA" + d.values[0].business_postal_code  + 
                     // "<h4>" + "Business Phone Number: " + d.values[0].business_phone_number + "</h4>" +
-                    "<h4>" + "Violation Example: " + d.values[0].violation_description + "</h4>" )
+                    "<h4 style = 'padding: 5px'>" + "Violation Example: " + d.values[0].violation_description + "</h4>" )
                .style("left", (d3.event.pageX) + "px")     
                .style("top", (d3.event.pageY - 28) + "px");    
         })   
@@ -151,21 +118,22 @@ function ready(error, dataArray) {
           var centroid = path.centroid(d);
           x = centroid[0];
           y = centroid[1];
-          zoomLevel = 5;
+          zoomLevel = 4;
           centered = d;
-          r = restaurants.attr("r", 1)
-                         .transition()
-                         .duration(3000);                
+          r = restaurants
+            .transition()
+            .duration(800)
+            .attr("r", 0.7);                
                          
         } else {
           x = width / 2;                      
           y = height / 2;
           zoomLevel = 1;
           centered = null;
-          r = restaurants.attr("r", 4)
-                         .transition()
-                         .duration(3000);
-          
+          r = restaurants.transition()
+                         .duration(800)
+                         .attr("r", 3)
+                         
         }
       
         //Selected neighbouthood will be centered
@@ -178,12 +146,6 @@ function ready(error, dataArray) {
             .style("stroke-width", 1.5 / zoomLevel + "px");
       }
 
-        // Experiment code
-        //restaurants.transition()
-        // .duration(750)
-        // .attr("transform", "translate(" + r / 2 + "," + r / 2 + ")")
-           
-      
 
 }
 
