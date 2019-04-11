@@ -46,23 +46,25 @@ div.tooltip {
    pointer-events: none;         
 }
 
-#legend{
-    
-   
-    width: 200px;
-    height: 20px;
-
-}
-
-.legend{
-    position: absolute;
-    margin: 40px auto;
-}
-
-.legendTitle {
-    text-anchor: middle;
-    font-size: 2.2rem;
-    fill: #4F4F4F;
-    font-weight: 300;
-}
+.lowRisk {
+    height: 12px;
+    width: 12px;
+    background-color: #3399FF;
+    border-radius: 10%;
+    display: inline-block;
+  }
+.modRisk {
+    height: 12px;
+    width: 12px;
+    background-color: #9D93F3;
+    border-radius: 10%;
+    display: inline-block;
+  }
+.highRisk {
+    height: 12px;
+    width: 12px;
+    background-color: #FF6666;
+    border-radius: 10%;
+    display: inline-block;
+  }
 

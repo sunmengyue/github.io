@@ -80,22 +80,23 @@ function ready(error, dataArray) {
     .attr("y2", "0%");
 
     //Set the color for the start (0%)
-    linearGradient.selectAll("stop")
-    .data(colorScale.range())
-    .enter().append("stop")
-    .attr("offset", function(d,i) { return i/(colorScale.range().length-1); })
-    .attr("stop-color", function(d) { return d; });
+    // linearGradient.selectAll("stop")
+    // .data(colorScale.range())
+    // .enter().append("stop")
+    // .attr("offset", function(d,i) { return i/(colorScale.range().length-1); })
+    // .attr("stop-color", function(d) { return d; });
 
-    legend.append("rect")
-    .attr("width", 170)
-    .attr("height", 20)
-    .style("fill", "url(#linear-gradient)");
+    // legend.append("rect")
+    // .attr("width", 200)
+    // .attr("height", 20)
+    // .style("fill", "url(#linear-gradient)")
+    // .attr("align","center");
 
-    legend.append("text")
-	.attr("class", "legendTitle")
-	.attr("x", 0)
-	.attr("y", -2)
-	.text("Risk Levels of Restaurants");
+    // legend.append("text")
+	// .attr("class", "legendTitle")
+	// .attr("x", 0)
+	// .attr("y", -2)
+	// .text("Risk Levels of Restaurants");
 
     /*Create dots, attach tool tips, and assign linear scale*/
     var restaurants = svg.selectAll("circle")
@@ -121,13 +122,13 @@ function ready(error, dataArray) {
             function calcRisk (d) {
                 var avg = d3.mean(d.values, function(dataPoint) {
                     return dataPoint.riskCatScore});
-                if (1 <= avg && avg < 1.5) {return "Low Risk"; }  
-                else if (1.5 <= avg && avg < 2) {return "Moderate Risk";}
-                else {return "High Risk";}
+                if (1 <= avg && avg < 1.5) {return "Low"; }  
+                else if (1.5 <= avg && avg < 2) {return "Moderate";}
+                else {return "High";}
             }
                div.text(d.values[0].business_name) 
                .html("<h2>" + "<center>" + "<i>" + d.values[0].business_name + "</i>" + "</center>" + "</h2>" + 
-                    "<h3>" + "Average Risk Level: " + calcRisk(d)
+                    "<h3>" + "Average Risk: " + calcRisk(d)
                         + "</h3>" +
                     "<h4>" + "Address: " + d.values[0].business_address  + ", " +
                     "CA" + d.values[0].business_postal_code  + 
