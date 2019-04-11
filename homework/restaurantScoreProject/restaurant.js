@@ -133,7 +133,7 @@ function ready(error, dataArray) {
                     "<h4>" + "Address: " + d.values[0].business_address  + ", " +
                     "CA" + d.values[0].business_postal_code  + 
                     // "<h4>" + "Business Phone Number: " + d.values[0].business_phone_number + "</h4>" +
-                    "<h4>" + "Violation Description: " + d.values[0].violation_description + "</h4>" )
+                    "<h4>" + "Violation Example: " + d.values[0].violation_description + "</h4>" )
                .style("left", (d3.event.pageX) + "px")     
                .style("top", (d3.event.pageY - 28) + "px");    
         })   
