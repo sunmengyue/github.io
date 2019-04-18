@@ -53,8 +53,8 @@ function ready(error, dataArray) {
     /*Append Div for tooltip to SVG*/
     var div = d3.select("body")
 		    .append("div")   
-    		.attr("class", "tooltip");               
-           
+            .attr("class", "tooltip")
+            
     /*Create nest by business name*/    
     var businessByName = d3.nest()
         .key(function(d){return d.business_id})
@@ -81,18 +81,19 @@ function ready(error, dataArray) {
             return colorScale(avg);
         })
         .style("opacity", .4)
-        .on("mouseover", function(d) {      
+        .on("mouseover", function(d) { 
+            d3.select(this).style("opacity", 1);     
             div.transition()        
                 .duration(200)      
-            .style("opacity", .9);
+                .style("opacity", 0.8);
 
         /*Add a function to transfer risk score to risk */
             function calcRisk (d) {
                 var avg = d3.mean(d.values, function(dataPoint) {
                     return dataPoint.riskCatScore});
-                if (1 <= avg && avg < 1.5) {return "Low" + "(" + avg + ")"; }  
-                else if (1.5 <= avg && avg < 2) {return "Moderate" + "(" + avg + ")";}
-                else {return "High" + "(" + avg + ")";}
+                if (1 <= avg && avg < 1.5) {return "Low" + "(" + d3.format(".1f")(avg) + ")"; }  
+                else if (1.5 <= avg && avg < 2) {return "Moderate" + "(" + d3.format(".1f")(avg) + ")";}
+                else {return "High" + "(" + d3.format(".1f")(avg) + ")";}
             }
                div.html("<h2 style = 'padding: 5px'>" + "<center>" + "<i>" + d.values[0].business_name + "</i>" + "</center>" + "</h2>" + 
                     "<h3 style = 'padding: 5px'>" + "Average Risk: " + calcRisk(d) 
@@ -101,10 +102,11 @@ function ready(error, dataArray) {
                     "CA" + d.values[0].business_postal_code  + 
                     // "<h4>" + "Business Phone Number: " + d.values[0].business_phone_number + "</h4>" +
                     "<h4 style = 'padding: 5px'>" + "Violation Example: " + d.values[0].violation_description + "</h4>" )
-               .style("left", (d3.event.pageX) + "px")     
-               .style("top", (d3.event.pageY - 28) + "px");    
+               .style("left", (d3.event.pageX + 5) + "px")     
+               .style("top", (d3.event.pageY - 5 ) + "px");    
         })   
-        .on("mouseout", function(d) {       
+        .on("mouseout", function(d) { 
+            d3.select(this).style("opacity", 0.4);      
             div.transition()        
                .duration(500)      
                .style("opacity", 0);   
@@ -118,7 +120,7 @@ function ready(error, dataArray) {
           var centroid = path.centroid(d);
           x = centroid[0];
           y = centroid[1];
-          zoomLevel = 4;
+          zoomLevel = 5;
           centered = d;
           r = restaurants
             .transition()
@@ -132,10 +134,8 @@ function ready(error, dataArray) {
           centered = null;
           r = restaurants.transition()
                          .duration(800)
-                         .attr("r", 3)
-                         
+                         .attr("r", 3)                  
         }
-      
         //Selected neighbouthood will be centered
         svg.selectAll("path")
             .classed("selected", centered && function(d) { return d === centered; });

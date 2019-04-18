@@ -34,16 +34,18 @@ svg {
     fill: #C0C0C0;
 }
 
+
 div.tooltip {   
-   position: absolute;                      
+   position: absolute;                    
    width: 210px;                           
-   padding: 2px;             
+   padding: 5px;             
    font: 12px sans-serif;        
-   background: white;   
+   background:#F0F8FF;   
    border: 0px;      
-   border-radius: 8px;           
+   border-radius: 9px;           
    pointer-events: none;         
 }
+
 
 .lowRisk {
     height: 12px;
