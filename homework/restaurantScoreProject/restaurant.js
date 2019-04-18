@@ -106,7 +106,7 @@ function ready(error, dataArray) {
                .style("top", (d3.event.pageY - 5 ) + "px");    
         })   
         .on("mouseout", function(d) { 
-            d3.select(this).style("opacity", 0.4);      
+            d3.select(this).style("opacity", 0.5);      
             div.transition()        
                .duration(500)      
                .style("opacity", 0);   
