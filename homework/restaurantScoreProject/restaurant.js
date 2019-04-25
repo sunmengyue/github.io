@@ -82,7 +82,8 @@ function ready(error, dataArray) {
         })
         .style("opacity", .4)
         .on("mouseover", function(d) { 
-            d3.select(this).style("opacity", 1);     
+            d3.select(this)
+                .style("opacity", 1)
             div.transition()        
                 .duration(200)      
                 .style("opacity", 0.8);
@@ -106,7 +107,8 @@ function ready(error, dataArray) {
                .style("top", (d3.event.pageY - 5 ) + "px");    
         })   
         .on("mouseout", function(d) { 
-            d3.select(this).style("opacity", 0.5);      
+            d3.select(this)
+              .style("opacity", 0.5)   
             div.transition()        
                .duration(500)      
                .style("opacity", 0);   
